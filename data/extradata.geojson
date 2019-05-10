@@ -1,0 +1,1071 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2965531,43.153219 ]
+    },
+    "properties": {
+    "ID":1,
+    "Category":"Hospital",
+    "Name":"UW Health Rehabilitation Hospital",
+    "address":"5115 N Biltmore Ln, Madison, WI 53718"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.431121,43.076639 ]
+    },
+    "properties": {
+    "ID":2,
+    "Category":"Hospital",
+    "Name":"UW Health University Hospital",
+    "address":"600 Highland Ave, Madison, WI 53792"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4334826,43.0769856 ]
+    },
+    "properties": {
+    "ID":3,
+    "Category":"Hospital",
+    "Name":"American Family Children's Hospital",
+    "address":"1675 Highland Ave, Madison, WI 53792"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4313207,43.0745719 ]
+    },
+    "properties": {
+    "ID":4,
+    "Category":"Hospital",
+    "Name":"William S. Middleton Memorial Veterans Hospital",
+    "address":"2500 Overlook Terrace, Madison, WI 53705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4021383,43.065686 ]
+    },
+    "properties": {
+    "ID":5,
+    "Category":"Hospital",
+    "Name":"UnityPoint Health - Meriter Hospital",
+    "address":"202 S Park St, Madison, WI 53715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3996224,43.0659338 ]
+    },
+    "properties": {
+    "ID":6,
+    "Category":"Hospital",
+    "Name":"Select Specialty Hospital - Madison",
+    "address":"801 Braxton Place, Madison, WI 53715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4031032,43.0590883 ]
+    },
+    "properties": {
+    "ID":7,
+    "Category":"Hospital",
+    "Name":"SSM Health St. Mary's Hospital - Madison",
+    "address":"700 S Park St, Madison, WI 53715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.412479,43.076632 ]
+    },
+    "properties": {
+    "ID":8,
+    "Category":"University center",
+    "Name":"University of Wisoncins Madison",
+    "address":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3988714,43.0723069 ]
+    },
+    "properties": {
+    "ID":9,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"301 E Campus Mall #203, Madison, WI 53715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3979406,43.0730123 ]
+    },
+    "properties": {
+    "ID":10,
+    "Category":"Fitness",
+    "Name":"Cyc Fitness Madison",
+    "address":"773 University Ave #205, Madison, WI 53715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.38954,43.0705778 ]
+    },
+    "properties": {
+    "ID":11,
+    "Category":"Fitness",
+    "Name":"Capital Fitness",
+    "address":"425 W Washington Ave, Madison, WI 53703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4028732,43.072446 ]
+    },
+    "properties": {
+    "ID":12,
+    "Category":"Fitness",
+    "Name":"Brooks Street Gym",
+    "address":"306 N Brooks St, Madison, WI 53715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3827057,43.073988 ]
+    },
+    "properties": {
+    "ID":13,
+    "Category":"Fitness",
+    "Name":"Orange Shoe Personal Fitness Trainers - Madison Downtown",
+    "address":"1 E Main St, Madison, WI 53703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3845055,43.0763724 ]
+    },
+    "properties": {
+    "ID":14,
+    "Category":"Fitness",
+    "Name":"Pinnacle Health + Fitness",
+    "address":"44 E Mifflin St, Madison, WI 53703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3813699,43.0770953 ]
+    },
+    "properties": {
+    "ID":15,
+    "Category":"Fitness",
+    "Name":"Capital Fitness",
+    "address":"15 N Butler St, Madison, WI 53703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3744391,43.0768015 ]
+    },
+    "properties": {
+    "ID":16,
+    "Category":"Fitness",
+    "Name":"CrossFit Recursive Fitness & Nutrition",
+    "address":"600 Williamson St, Madison, WI 53703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4200933,43.0767606 ]
+    },
+    "properties": {
+    "ID":17,
+    "Category":"Fitness",
+    "Name":"GYM-NAT",
+    "address":"2000 Observatory Dr, Madison, WI 53706"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.469282,43.0759374 ]
+    },
+    "properties": {
+    "ID":18,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"737 University Row, Madison, WI 53705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4501042,43.0546331 ]
+    },
+    "properties": {
+    "ID":19,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"515 S Midvale Blvd #5, Madison, WI 53711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4699043,43.0542686 ]
+    },
+    "properties": {
+    "ID":20,
+    "Category":"Fitness",
+    "Name":"UW Health Sports Medicine Fitness Center",
+    "address":"621 Science Dr, Madison, WI 53711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4737184,43.0491648 ]
+    },
+    "properties": {
+    "ID":21,
+    "Category":"Fitness",
+    "Name":"Empower Strength and Fitness",
+    "address":"716 S Whitney Way, Madison, WI 53711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.512412,43.0584137 ]
+    },
+    "properties": {
+    "ID":22,
+    "Category":"Fitness",
+    "Name":"Planet Fitness",
+    "address":"7475 Mineral Point Rd, Madison, WI 53717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5187581,43.0599481 ]
+    },
+    "properties": {
+    "ID":23,
+    "Category":"Fitness",
+    "Name":"Orangetheory Fitness",
+    "address":"7803 Mineral Point Rd, Madison, WI 53717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5015383,43.08424 ]
+    },
+    "properties": {
+    "ID":24,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"1011 N Gammon Rd, Middleton, WI 53562"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5128787,43.0946725 ]
+    },
+    "properties": {
+    "ID":25,
+    "Category":"Fitness",
+    "Name":"Peter Kraus Fitness",
+    "address":"1826 Aurora St, Middleton, WI 53562"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4210881,43.0345017 ]
+    },
+    "properties": {
+    "ID":26,
+    "Category":"Fitness",
+    "Name":"Orangetheory Fitness",
+    "address":"2501 W Beltline Hwy #105, Madison, WI 53713"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4085139,43.0362583 ]
+    },
+    "properties": {
+    "ID":27,
+    "Category":"Fitness",
+    "Name":"Madtown Fitness: 24 Hour Gym",
+    "address":"1509 Emil St, Madison, WI 53713"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4019264,43.0287609 ]
+    },
+    "properties": {
+    "ID":28,
+    "Category":"Fitness",
+    "Name":"Summit Strength & Fitness",
+    "address":"3118 Kingsley Way, Madison, WI 53713"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3502671,43.0451112 ]
+    },
+    "properties": {
+    "ID":29,
+    "Category":"Fitness",
+    "Name":"Planet Fitness",
+    "address":"2311 W Broadway, Monona, WI 53713"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3247271,43.0534533 ]
+    },
+    "properties": {
+    "ID":30,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"6000 Monona Dr, Monona, WI 53716"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3093097,43.0509563 ]
+    },
+    "properties": {
+    "ID":31,
+    "Category":"Fitness",
+    "Name":"Summit Commercial Fitness",
+    "address":"6376 Copps Ave, Monona, WI 53716"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3074536,43.0537316 ]
+    },
+    "properties": {
+    "ID":32,
+    "Category":"Fitness",
+    "Name":"Ignite Total Fitness",
+    "address":"3031 S Stoughton Rd, Madison, WI 53716"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3056673,43.0665599 ]
+    },
+    "properties": {
+    "ID":33,
+    "Category":"Fitness",
+    "Name":"Sanctify Fitness",
+    "address":"4535 Helgesen Dr, Madison, WI 53718"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3106025,43.0680883 ]
+    },
+    "properties": {
+    "ID":34,
+    "Category":"Fitness",
+    "Name":"Badger Fitness 24/7",
+    "address":"2040 S Stoughton Rd, Madison, WI 53716"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2674994,43.0853096 ]
+    },
+    "properties": {
+    "ID":35,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"6420 Cottage Grove Rd, Madison, WI 53718"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3608403,43.092328 ]
+    },
+    "properties": {
+    "ID":36,
+    "Category":"Fitness",
+    "Name":"Monkey Bar Gym",
+    "address":"1876 E Washington Ave, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.353888,43.092046 ]
+    },
+    "properties": {
+    "ID":37,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"2045 Atwood Ave, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3535179,43.0943435 ]
+    },
+    "properties": {
+    "ID":38,
+    "Category":"Fitness",
+    "Name":"Ford's Gym",
+    "address":"2114 Winnebago St, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3441114,43.0939988 ]
+    },
+    "properties": {
+    "ID":39,
+    "Category":"Fitness",
+    "Name":"Badger Den Strength",
+    "address":"2716 Atwood Ave, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.478085,43.011002 ]
+    },
+    "properties": {
+    "ID":40,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"6250 Nesbitt Rd Suite 600, Fitchburg, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4231319,43.0179054 ]
+    },
+    "properties": {
+    "ID":41,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"2980 Cahill Main, Fitchburg, WI 53711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.362042,43.1124973 ]
+    },
+    "properties": {
+    "ID":42,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"1193 N Sherman Ave, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2674994,43.0853135 ]
+    },
+    "properties": {
+    "ID":43,
+    "Category":"Fitness",
+    "Name":"Anytime Fitness",
+    "address":"6420 Cottage Grove Rd, Madison, WI 53718"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.306039,43.124247 ]
+    },
+    "properties": {
+    "ID":44,
+    "Category":"Fitness",
+    "Name":"Planet Fitness",
+    "address":"89 E Towne Mall, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4571209,43.0376698 ]
+    },
+    "properties": {
+    "ID":45,
+    "Category":"Fitness",
+    "Name":"Planet Fitness",
+    "address":"4538 Verona Rd, Madison, WI 53711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3183219,43.1177916 ]
+    },
+    "properties": {
+    "ID":46,
+    "Category":"Supermarket",
+    "Name":"Hy-Vee",
+    "address":"3801 E Washington Ave, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4713151,43.0508661 ]
+    },
+    "properties": {
+    "ID":47,
+    "Category":"Supermarket",
+    "Name":"Hy-Vee",
+    "address":"675 S Whitney Way, Madison, WI 53711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4794154,43.0135281 ]
+    },
+    "properties": {
+    "ID":48,
+    "Category":"Supermarket",
+    "Name":"Hy-Vee",
+    "address":"2920 Fitchrona Rd, Fitchburg, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3501115,43.042508 ]
+    },
+    "properties": {
+    "ID":49,
+    "Category":"Supermarket",
+    "Name":"Walmart Supercenter",
+    "address":"2151 Royal Ave, Monona, WI 53713"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3130863,43.1105862 ]
+    },
+    "properties": {
+    "ID":50,
+    "Category":"Supermarket",
+    "Name":"Walmart Supercenter",
+    "address":"4198 Nakoosa Trail, Madison, WI 53714"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2466211,43.1737144 ]
+    },
+    "properties": {
+    "ID":51,
+    "Category":"Supermarket",
+    "Name":"Walmart Supercenter",
+    "address":"1905 McCoy Rd, Sun Prairie, WI 53590"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.509086,43.0520186 ]
+    },
+    "properties": {
+    "ID":52,
+    "Category":"Grocery store",
+    "Name":"Walmart",
+    "address":"7202 Watts Rd, Madison, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.524498,43.0623978 ]
+    },
+    "properties": {
+    "ID":53,
+    "Category":"Supermarket",
+    "Name":"Target",
+    "address":"201 Junction Rd, Madison, WI 53717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4538379,43.0750166 ]
+    },
+    "properties": {
+    "ID":54,
+    "Category":"Supermarket",
+    "Name":"Target",
+    "address":"750 Hilldale Way, Madison, WI 53705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3066382,43.1188567 ]
+    },
+    "properties": {
+    "ID":55,
+    "Category":"Supermarket",
+    "Name":"Target",
+    "address":"4301 Lien Rd, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2688084,43.1710697 ]
+    },
+    "properties": {
+    "ID":56,
+    "Category":"Supermarket",
+    "Name":"Target",
+    "address":"660 S Grand Ave, Sun Prairie, WI 53590"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4822478,43.0133712 ]
+    },
+    "properties": {
+    "ID":57,
+    "Category":"Supermarket",
+    "Name":"Target",
+    "address":"6321 McKee Rd, Fitchburg, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4981909,43.1074845 ]
+    },
+    "properties": {
+    "ID":58,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"6800 Century Ave, Middleton, WI 53562"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5246911,43.0648747 ]
+    },
+    "properties": {
+    "ID":59,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"261 Junction Rd, Madison, WI 53717"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4493532,43.0764429 ]
+    },
+    "properties": {
+    "ID":60,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"3650 University Ave, Madison, WI 53705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3959236,43.052191 ]
+    },
+    "properties": {
+    "ID":61,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"1312 S Park St, Madison, WI 53715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4980192,43.0136537 ]
+    },
+    "properties": {
+    "ID":62,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"6655 McKee Rd, Madison, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.421308,43.0182035 ]
+    },
+    "properties": {
+    "ID":63,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"3010 Cahill Main, Fitchburg, WI 53711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.299922,43.0158188 ]
+    },
+    "properties": {
+    "ID":64,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"5709 US-51, McFarland, WI 53558"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3224955,43.0456679 ]
+    },
+    "properties": {
+    "ID":65,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"6540 Monona Dr, Monona, WI 53716"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3495536,43.1132805 ]
+    },
+    "properties": {
+    "ID":66,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"2502 Shopko Dr, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2620492,43.1861069 ]
+    },
+    "properties": {
+    "ID":67,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"2538 Ironwood Dr, Sun Prairie, WI 53590"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.204371,43.1814287 ]
+    },
+    "properties": {
+    "ID":68,
+    "Category":"Grocery store",
+    "Name":"Pick 'n Save",
+    "address":"640 E Main St, Sun Prairie, WI 53590"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4442248,43.0747423 ]
+    },
+    "properties": {
+    "ID":69,
+    "Category":"Grocery store",
+    "Name":"Whole Foods Market",
+    "address":"3313 University Ave, Madison, WI 53705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4175436,43.0649866 ]
+    },
+    "properties": {
+    "ID":70,
+    "Category":"Grocery store",
+    "Name":"Trader Joe's",
+    "address":"1810 Monroe St, Madison, WI 53711"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5262361,43.0562833 ]
+    },
+    "properties": {
+    "ID":71,
+    "Category":"Grocery store",
+    "Name":"ALDI",
+    "address":"8222 Watts Rd, Madison, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4784284,43.0151912 ]
+    },
+    "properties": {
+    "ID":72,
+    "Category":"Grocery store",
+    "Name":"ALDI",
+    "address":"6261 McKee Rd, Fitchburg, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.316659,43.1200627 ]
+    },
+    "properties": {
+    "ID":73,
+    "Category":"Grocery store",
+    "Name":"ALDI",
+    "address":"3925 Lien Rd, Madison, WI 53704"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3957159,43.0521763 ]
+    },
+    "properties": {
+    "ID":74,
+    "Category":"Grocery store",
+    "Name":"Copps",
+    "address":"1312 N Park St, Madison, WI 53715"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5009804,43.0486944 ]
+    },
+    "properties": {
+    "ID":75,
+    "Category":"Grocery store",
+    "Name":"Woodman's Food Market",
+    "address":"725 S Gammon Rd, Madison, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3188047,43.0975046 ]
+    },
+    "properties": {
+    "ID":76,
+    "Category":"Grocery store",
+    "Name":"Woodman's Food Market",
+    "address":"3817 Milwaukee St, Madison, WI 53714"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.2667913,43.1646375 ]
+    },
+    "properties": {
+    "ID":77,
+    "Category":"Grocery store",
+    "Name":"Woodman's Food Market",
+    "address":"1099 S Grand Ave, Sun Prairie, WI 53590"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.4528401,43.0739429 ]
+    },
+    "properties": {
+    "ID":78,
+    "Category":"Supermarket",
+    "Name":"Metcalfe's Market",
+    "address":"726 N Midvale Blvd, Madison, WI 53705"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.5107329,43.0582079 ]
+    },
+    "properties": {
+    "ID":79,
+    "Category":"Supermarket",
+    "Name":"Metcalfe's Market",
+    "address":"7455 Mineral Point Rd, Madison, WI 53719"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3902105,43.0727125 ]
+    },
+    "properties": {
+    "ID":80,
+    "Category":"Supermarket",
+    "Name":"Capitol Centre Market",
+    "address":"111 N Broom St, Madison, WI 53703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3754101,43.0814465 ]
+    },
+    "properties": {
+    "ID":81,
+    "Category":"Grocery store",
+    "Name":"Festival Foods",
+    "address":"810 E Washington Ave, Madison, WI 53703"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.3977636,43.0729476 ]
+    },
+    "properties": {
+    "ID":82,
+    "Category":"Supermarket",
+    "Name":"Fresh Madison Market",
+    "address":"703 University Ave, Madison, WI 53715"
+    }
+  }
+]
+}

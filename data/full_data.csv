@@ -1,0 +1,660 @@
+ property_id,tile_url,latitude,longitude,min_price,max_price,beds_range, prop_display_name,phone_number,bustop_within_100,inside_campus,fitness_within_200m,fitness_within_500m,fitness_within_1000m,market_within_200m,market_within_500m,market_within_1000m,within_unvCen_1km,within_unvCen_2km,within_unvCen_3km
+1173,'https://d2cc5bro5bu049.cloudfront.net/292/17195135/tile.jpg',43.066002,-89.402603,895,1275, '1 - 2 BR',College Station,6086652023,no,no,no,no,yes,no,no,yes,no,yes,yes
+585715,'https://d2cc5bro5bu049.cloudfront.net/9439/19706788/tile.jpg',43.068028,-89.388268,650,775, 'Studio - 1 BR',218 S. Bassett Street,6084224115,no,no,no,yes,yes,no,no,yes,no,no,yes
+3172846,'https://d2cc5bro5bu049.cloudfront.net/139/28462505/tile.jpg',43.068872,-89.403799,2850,2950, '5 BR',35 N Mills Street,6088072345,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+3123799,'https://d2cc5bro5bu049.cloudfront.net/84201/25697840/tile.png',43.073416,-89.420673,1440,, '3 BR',412 Paunack Place,6087194061,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+741159,'https://d2cc5bro5bu049.cloudfront.net/12433/7015798/tile.jpg',43.068756,-89.389732,770,, '1 BR',511 W Main St,6084780791,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+760981,'https://d2cc5bro5bu049.cloudfront.net/19637/18875671/tile.jpg',43.079292,-89.383075,1850,1900, '4 BR',323 E Johnson St,6087299305,no,no,no,yes,yes,no,no,yes,no,no,no
+2037313,'https://d2cc5bro5bu049.cloudfront.net/19872/26066417/tile.jpg',43.071078,-89.414235,1900,, '3 BR',136 N Breese Terr,6203123828,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+1307832,'https://d2cc5bro5bu049.cloudfront.net/110/11143002/tile.jpg',43.070701,-89.384934,1565,, '3 BR',212 S Henry St,6082569500,yes,no,no,yes,yes,no,no,yes,no,no,no
+1307693,'https://d2cc5bro5bu049.cloudfront.net/110/11142974/tile.jpg',43.065520,-89.406736,2150,, '4 BR',1228 Mound St,6082569500,no,no,no,no,yes,no,no,no,no,yes,yes
+833683,'https://d2cc5bro5bu049.cloudfront.net/36708/7058118/tile.jpeg',43.103001,-89.301553,1200,, '2 BR',228 Swanton Rd,9203700045,no,no,no,no,no,no,no,no,no,no,no
+2214479,'https://d2cc5bro5bu049.cloudfront.net/19510/18720204/tile.jpg',43.076957,-89.396029,1200,1450, '1 BR',The Surf 1-bedroom,6082136908,no,no,no,yes,yes,no,yes,yes,no,yes,yes
+1109029,'https://d2cc5bro5bu049.cloudfront.net/48808/9302658/tile.jpg',43.070775,-89.408185,1440,2600, '2 - 4 BR',The Dayton Place Apartments,6082128599,no,no,no,no,yes,no,no,no,yes,yes,yes
+2011049,'https://d2cc5bro5bu049.cloudfront.net/12231/17149197/tile.jpg',43.071310,-89.391645,1250,, '2 BR',448 W Mifflin,6082220365,no,no,no,yes,yes,no,yes,yes,no,no,yes
+1224166,'https://d2cc5bro5bu049.cloudfront.net/19664/10361065/tile.jpg',43.066902,-89.409276,0,, '6 BR',1502 Adams Street,6082560525,yes,no,no,no,yes,no,no,yes,no,yes,yes
+1878426,'https://d2cc5bro5bu049.cloudfront.net/19664/16226630/tile.jpg',43.066960,-89.408752,0,, '6 BR',21 S Randall Avenue,6082560525,yes,no,no,no,yes,no,no,no,no,yes,yes
+1912651,'https://d2cc5bro5bu049.cloudfront.net/19664/16226913/tile.jpg',43.069409,-89.390845,2950,, '5 BR',517 W. Washington Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+1912640,'https://d2cc5bro5bu049.cloudfront.net/19664/16226674/tile.jpg',43.069929,-89.390899,3600,, '6 BR',505 W. Washington Ave,6084675106,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+3050127,'https://d2cc5bro5bu049.cloudfront.net/83305/24810578/tile.jpg',43.090862,-89.360443,1285,2820, 'Studio - 3 BR',The Marling Apartments,6084051827,no,no,yes,yes,yes,no,no,no,no,no,no
+1983691,'https://d2cc5bro5bu049.cloudfront.net/19906/16877263/tile.jpg',43.066017,-89.404859,1100,, '2 BR',1112 St James Ct,6084446120,yes,no,no,no,yes,no,no,no,no,yes,yes
+3143024,'https://d2cc5bro5bu049.cloudfront.net/84580/25944266/tile.png',43.066324,-89.417187,625,, '1 BR',1806 Keyes Ave,6082564948,no,no,no,no,no,yes,yes,yes,no,yes,yes
+3145449,'https://d2cc5bro5bu049.cloudfront.net/84628/25977483/tile.jpg',43.079694,-89.385449,1075,, '1 BR',410 N Butler St. Apt B,,no,no,no,yes,yes,no,no,yes,no,no,no
+3157167,'https://d2cc5bro5bu049.cloudfront.net/84679/26058873/tile.jpg',43.072832,-89.402632,300,700, '2 BR',X01,9784964293,no,yes,yes,yes,yes,no,no,yes,no,yes,yes
+3159460,'https://d2cc5bro5bu049.cloudfront.net/84717/26073736/tile.jpg',43.073917,-89.393534,1100,1495, '2 BR',420 W Gorham St,2194777105,yes,no,no,no,yes,no,yes,yes,no,no,yes
+975014,'https://d2cc5bro5bu049.cloudfront.net/41730/18875482/tile.jpg',43.070235,-89.408607,1350,1950, '2 - 3 BR',Randall Court Apartments,6082229791,no,no,no,no,yes,no,no,no,yes,yes,yes
+3154830,'https://d2cc5bro5bu049.cloudfront.net/20499/26032308/tile.png',43.069483,-89.390223,5500,, '8+ BR',18 S. Bassett St.,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+3164129,'https://d2cc5bro5bu049.cloudfront.net/84810/26138522/tile.jpg',43.067050,-89.414543,1015,, '2 BR',Clarenden Apartments,6082561183,yes,no,no,no,no,no,yes,yes,no,yes,yes
+3160699,'https://d2cc5bro5bu049.cloudfront.net/19860/26091607/tile.jpg',43.076071,-89.388713,0,, '2 BR',Six Month Lease Available 12/15/18 To 6/15/19,6085777758,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+1196921,'https://d2cc5bro5bu049.cloudfront.net/12433/10105214/tile.jpg',43.068563,-89.387510,1148,, '1 BR',438 W. Wilson,6082352225,yes,no,no,yes,yes,no,no,yes,no,no,yes
+3231962,'https://d2cc5bro5bu049.cloudfront.net/86074/26997392/tile.jpg',43.078152,-89.382616,500,, '1 BR',113 N Butler St,6087124258,no,no,yes,yes,yes,no,no,yes,no,no,no
+3234304,'https://d2cc5bro5bu049.cloudfront.net/86124/27027666/tile.jpg',43.050881,-89.399866,1900,, '3 BR',1360 Fish Hatchery Rd,8589974633,yes,no,no,no,no,no,yes,yes,no,no,no
+2274505,'https://d2cc5bro5bu049.cloudfront.net/20216/19140499/tile.jpg',43.130191,-89.355478,975,1350, '1 - 2 BR',Granite Ridge Apartments,6086619900,yes,no,no,no,no,no,no,no,no,no,no
+2862776,'https://d2cc5bro5bu049.cloudfront.net/81283/27069266/tile.png',43.072104,-89.384043,0,, 'Studio',121 S Hamilton St,6084461491,no,no,no,yes,yes,no,no,yes,no,no,no
+3248211,'https://d2cc5bro5bu049.cloudfront.net/86432/27206123/tile.jpg',43.072354,-89.391370,1100,, '1 BR',417 W Dayton St,,yes,no,no,yes,yes,yes,yes,yes,no,no,yes
+1940304,'https://d2cc5bro5bu049.cloudfront.net/68810/16501042/tile.jpg',43.075333,-89.391369,495,, '8+ BR',212 W Gorham St,6083543284,yes,no,no,no,yes,no,yes,yes,no,no,yes
+3252365,'https://d2cc5bro5bu049.cloudfront.net/86525/27259324/tile.jpg',43.006483,-89.405646,1300,, '2 BR',Hollyhock St,7812357103,no,no,no,no,no,no,no,no,no,no,no
+3177449,'https://d2cc5bro5bu049.cloudfront.net/85060/26307601/tile.jpg',43.079181,-89.381675,2300,, '3 BR',124 N Franklin Street #1,6082997680,no,no,no,yes,yes,no,no,yes,no,no,no
+3177414,'https://d2cc5bro5bu049.cloudfront.net/85060/26307059/tile.jpg',43.062295,-89.403531,2500,, '5 BR',1026 Drake Street,6082997680,yes,no,no,no,no,no,no,no,no,yes,yes
+3177471,'https://d2cc5bro5bu049.cloudfront.net/85060/26307882/tile.jpg',43.069316,-89.387336,1250,, '2 BR',415 W Doty Street #2,6082997680,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+3177489,'https://d2cc5bro5bu049.cloudfront.net/85060/26308164/tile.jpg',43.061458,-89.404116,1325,, '2 BR',520 S Mills Street #2,6082997680,no,no,no,no,no,no,no,no,no,yes,yes
+3234658,'https://d2cc5bro5bu049.cloudfront.net/86131/27157711/tile.jpg',43.072488,-89.464543,400,540, '1 BR',Monticello Apartments,4023321895,no,no,no,no,yes,no,no,no,no,no,no
+3283706,'https://d2cc5bro5bu049.cloudfront.net/87049/27610357/tile.jpg',43.068012,-89.409722,0,695, '3 BR',1402 Regent St,,yes,no,no,no,yes,no,no,yes,no,yes,yes
+3224887,'https://d2cc5bro5bu049.cloudfront.net/77781/26902091/tile.jpeg',43.065948,-89.404326,1725,2375, '3 - 4 BR',112 South Mills Street,6082429111,yes,no,no,no,yes,no,no,no,no,yes,yes
+3294665,'https://d2cc5bro5bu049.cloudfront.net/87273/27758229/tile.jpg',43.017598,-89.455698,1500,, '2 BR',3005 S. Seminole Highway,6084450524,no,no,no,no,no,no,no,no,no,no,no
+3201771,'https://d2cc5bro5bu049.cloudfront.net/85526/26603640/tile.jpg',43.062713,-89.399960,500,, '1 BR',410 W Shore Dr,,yes,no,no,no,no,no,no,no,no,no,yes
+744284,'https://d2cc5bro5bu049.cloudfront.net/18135/7744294/tile.jpg',43.074700,-89.394067,745,1170, 'Studio - 2 BR',509 State St.,6082730228,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+742904,'https://d2cc5bro5bu049.cloudfront.net/18135/8295457/tile.jpg',43.074545,-89.394056,710,, 'Studio',414 W Gilman St,6085200581,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+760686,'https://d2cc5bro5bu049.cloudfront.net/18135/7725426/tile.jpg',43.074340,-89.394395,1110,, '2 BR',424 W Gilman St,6082730228,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+368,'https://d2cc5bro5bu049.cloudfront.net/162/27697627/tile.jpg',43.069288,-89.389334,1425,, '3 BR',451 W Main St,,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+740804,'https://d2cc5bro5bu049.cloudfront.net/15875/21453678/tile.jpg',43.063446,-89.418825,600,1275, 'Studio - 2 BR',2005 Monroe St,6082414449,yes,no,no,no,no,no,yes,yes,no,yes,yes
+740796,'https://d2cc5bro5bu049.cloudfront.net/15875/6985858/tile.jpg',43.077046,-89.379528,1175,1185, '2 BR',17 S Hancock St,6082414449,no,no,no,yes,yes,no,no,yes,no,no,no
+740985,'https://d2cc5bro5bu049.cloudfront.net/18492/6342365/tile.jpg',43.070690,-89.393399,1995,, '3 BR',533 W Dayton St,6082558633,no,no,no,yes,yes,no,yes,yes,no,no,yes
+741049,'https://d2cc5bro5bu049.cloudfront.net/18492/9350432/tile.jpg',43.075504,-89.388951,745,1895, '1 - 4 BR',118 W Johnson St,6082558633,yes,no,no,no,yes,no,yes,yes,no,no,yes
+740864,'https://d2cc5bro5bu049.cloudfront.net/20377/7695533/tile.jpg',43.077618,-89.385393,1540,, '3 BR',217 N Pinckney St,6082518888,yes,no,yes,yes,yes,no,no,yes,no,no,no
+740780,'https://d2cc5bro5bu049.cloudfront.net/20377/10992778/tile.jpg',43.075660,-89.391476,1160,, '2 BR',414 N Henry St,6082518888,yes,no,no,no,yes,no,yes,yes,no,no,yes
+741218,'https://d2cc5bro5bu049.cloudfront.net/15264/6342469/tile.jpg',43.070914,-89.390141,1800,, '3 BR',430 W. Washington Avenue,6082571000,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+741224,'https://d2cc5bro5bu049.cloudfront.net/20377/7695534/tile.jpg',43.077567,-89.385495,830,, '1 BR',219 N Pinckney St,6082518888,yes,no,yes,yes,yes,no,no,yes,no,no,no
+741223,'https://d2cc5bro5bu049.cloudfront.net/15875/6342477/tile.jpg',43.076094,-89.377625,995,, '1 BR',134 S Franklin St,6082414449,yes,no,no,yes,yes,no,no,yes,no,no,no
+741015,'https://d2cc5bro5bu049.cloudfront.net/18492/24394156/tile.jpg',43.076091,-89.392086,1185,, '2 BR',504 N Henry St,6082558633,yes,no,no,no,yes,no,yes,yes,no,no,yes
+741112,'https://d2cc5bro5bu049.cloudfront.net/20377/10992780/tile.jpg',43.077252,-89.384909,1640,1750, '3 - 5 BR',201 N Pinckney St,6082518888,no,no,yes,yes,yes,no,no,yes,no,no,no
+741528,'https://d2cc5bro5bu049.cloudfront.net/20377/10992784/tile.jpg',43.077478,-89.384856,1755,2080, '4 - 5 BR',104 E Dayton St,6082518888,no,no,yes,yes,yes,no,no,yes,no,no,no
+741824,'https://d2cc5bro5bu049.cloudfront.net/16972/19376597/tile.jpg',43.068629,-89.390200,1595,, '4 BR',523 W Main St,6086953937,no,no,no,yes,yes,no,yes,yes,no,no,yes
+741835,'https://d2cc5bro5bu049.cloudfront.net/18492/9350446/tile.jpg',43.081336,-89.380087,1660,, '3 BR',639 E Johnson St,6082558633,no,no,no,yes,yes,no,no,yes,no,no,no
+742004,'https://d2cc5bro5bu049.cloudfront.net/15264/6342753/tile.jpg',43.083187,-89.363887,925,, '1 BR',1203 Williamson Street,6082571000,yes,no,no,no,no,no,no,no,no,no,no
+741627,'https://d2cc5bro5bu049.cloudfront.net/20377/10992792/tile.jpg',43.077316,-89.384995,990,1760, '2 - 4 BR',205 N Pinckney St,6082518888,yes,no,yes,yes,yes,no,no,yes,no,no,no
+742405,'https://d2cc5bro5bu049.cloudfront.net/13893/6342083/tile.jpg',43.071391,-89.443309,1085,1605, '1 - 3 BR',3205 Stevens St,6082312300,no,no,no,no,no,no,yes,yes,no,no,no
+742874,'https://d2cc5bro5bu049.cloudfront.net/12695/21772260/tile.jpg',43.083561,-89.377844,1200,, '2 BR',808 E Johnson St,6082573200,yes,no,no,no,yes,no,yes,yes,no,no,no
+743286,'https://d2cc5bro5bu049.cloudfront.net/12339/17820269/tile.jpg',43.070864,-89.414624,3200,, '5 BR',137 Lathrop St,6085167028,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+743278,'https://d2cc5bro5bu049.cloudfront.net/16972/6342693/tile.jpg',43.068540,-89.390034,1095,, '3 BR',521 W Main St,6086953937,no,no,no,yes,yes,no,yes,yes,no,no,yes
+743272,'https://d2cc5bro5bu049.cloudfront.net/16972/6343141/tile.jpg',43.066055,-89.406917,2995,, '6 BR',111 S Orchard St,6086953937,no,no,no,no,yes,no,no,no,no,yes,yes
+743732,'https://d2cc5bro5bu049.cloudfront.net/12231/6343313/tile.jpg',43.079628,-89.382651,1795,4645, '4 - 8+ BR',407 E Johnson St,6082220365,no,no,no,yes,yes,no,no,yes,no,no,no
+743735,'https://d2cc5bro5bu049.cloudfront.net/12231/6343314/tile.jpg',43.079755,-89.382470,1850,, '4 BR',411 E Johnson St,6082220365,no,no,no,yes,yes,no,no,yes,no,no,no
+743928,'https://d2cc5bro5bu049.cloudfront.net/15264/6343372/tile.jpg',43.078156,-89.380297,1240,, '2 BR',12 N. Franklin Street,6082571000,no,no,yes,yes,yes,no,no,yes,no,no,no
+744671,'https://d2cc5bro5bu049.cloudfront.net/14366/9792436/tile.jpg',43.075963,-89.395580,260,545, '7 BR',Phos House,6084421827,no,yes,no,yes,yes,no,yes,yes,no,yes,yes
+747396,'https://d2cc5bro5bu049.cloudfront.net/12231/17149397/tile.jpg',43.079971,-89.382570,1550,, '3 BR',417 E Johnson St,6082220365,no,no,no,yes,yes,no,no,yes,no,no,no
+747091,'https://d2cc5bro5bu049.cloudfront.net/15264/6343879/tile.jpg',43.078251,-89.380066,1460,, '3 BR',10 N. Franklin Street,6082571000,no,no,yes,yes,yes,no,no,yes,no,no,no
+747100,'https://d2cc5bro5bu049.cloudfront.net/16972/6343885/tile.jpg',43.087338,-89.371396,1395,, '3 BR',1129 E Johnson St,6086953937,yes,no,no,no,no,no,no,yes,no,no,no
+749118,'https://d2cc5bro5bu049.cloudfront.net/15264/6343879/tile.jpg',43.078074,-89.380231,1460,, '3 BR',8 N. Franklin Street,6082571000,no,no,yes,yes,yes,no,no,yes,no,no,no
+750176,'https://d2cc5bro5bu049.cloudfront.net/15264/6344180/tile.jpg',43.083897,-89.377010,1300,, '2 BR',830 E. Johnson Street,6082571000,no,no,no,no,yes,no,yes,yes,no,no,no
+750785,'https://d2cc5bro5bu049.cloudfront.net/17205/6344659/tile.jpg',43.061035,-89.408773,2950,, '5 BR',525 S Randall Ave,6083341844,no,no,no,no,no,no,no,no,no,yes,yes
+760558,'https://d2cc5bro5bu049.cloudfront.net/19664/16175586/tile.jpg',43.069534,-89.390668,5000,, '8+ BR',511 W Washington Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+760519,'https://d2cc5bro5bu049.cloudfront.net/19510/6416596/tile.jpg',43.076957,-89.396029,800,1950, 'Studio - 2 BR',The Surf Studio,6082136908,no,no,no,yes,yes,no,yes,yes,no,yes,yes
+760586,'https://d2cc5bro5bu049.cloudfront.net/19664/10318654/tile.jpg',43.069732,-89.390589,2200,, '4 BR',503 W Washington Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+760564,'https://d2cc5bro5bu049.cloudfront.net/19498/24525710/tile.png',43.078036,-89.382372,1195,1995, '2 - 4 BR',105 N Butler,6085757744,no,no,yes,yes,yes,no,no,yes,no,no,no
+760814,'https://d2cc5bro5bu049.cloudfront.net/19631/26599874/tile.jpg',43.064912,-89.393865,750,, '1 BR',729 Clark Ct,6086097993,no,no,no,no,yes,no,no,yes,no,no,yes
+761201,'https://d2cc5bro5bu049.cloudfront.net/19637/6418305/tile.jpg',43.079060,-89.383357,610,650, 'Studio',311 E Johnson St,6082511960,yes,no,no,yes,yes,no,no,yes,no,no,no
+761258,'https://d2cc5bro5bu049.cloudfront.net/19639/14325954/tile.jpg',43.065509,-89.410617,1000,1400, '1 - 2 BR',Oakland Apartments,6082415777,no,no,no,no,no,no,no,yes,no,yes,yes
+761213,'https://d2cc5bro5bu049.cloudfront.net/19889/9496425/tile.jpg',43.067248,-89.388175,2145,, '5 BR',519 House,6082848483,no,no,no,yes,yes,no,no,yes,no,no,yes
+761428,'https://d2cc5bro5bu049.cloudfront.net/19564/26606889/tile.png',43.072660,-89.414173,1995,, '3 BR',306 N Breese Terrace Apartments,6082355931,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+761505,'https://d2cc5bro5bu049.cloudfront.net/19510/18720288/tile.jpg',43.076745,-89.395538,0,1700, '2 BR',Surfside,6082136908,no,no,no,yes,yes,no,yes,yes,no,yes,yes
+761965,'https://d2cc5bro5bu049.cloudfront.net/19564/23374891/tile.jpeg',43.030596,-89.473018,1995,, '4 BR',5409 Denton Place,6082355931,no,no,no,no,no,no,no,no,no,no,no
+762508,'https://d2cc5bro5bu049.cloudfront.net/20377/7695530/tile.jpg',43.077751,-89.378047,1100,1600, '2 - 4 BR',522 E Main St,6082518888,yes,no,no,yes,yes,no,no,yes,no,no,no
+762676,'https://d2cc5bro5bu049.cloudfront.net/19941/7027537/tile.jpg',43.067689,-89.388209,610,, 'Studio',512 W Wilson Street Apartments,6087724356,no,no,no,yes,yes,no,no,yes,no,no,yes
+763409,'https://d2cc5bro5bu049.cloudfront.net/19564/23375052/tile.jpeg',43.072736,-89.414193,1995,, '3 BR',308 North Breese Terrace Apartments,6082355931,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+763037,'https://d2cc5bro5bu049.cloudfront.net/20033/6417094/tile.jpg',43.068741,-89.388529,745,, '1 BR',452 W Doty St,6082568391,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+763085,'https://d2cc5bro5bu049.cloudfront.net/19898/7175360/tile.jpg',43.072411,-89.394306,510,585, '1 BR',Conklin Place,6082567368,no,no,no,yes,yes,no,yes,yes,no,no,yes
+763536,'https://d2cc5bro5bu049.cloudfront.net/19664/6419610/tile.jpg',43.069939,-89.389962,4000,, '8+ BR',7/9 S Bassett St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+763267,'https://d2cc5bro5bu049.cloudfront.net/19528/6418754/tile.jpg',43.070061,-89.407489,320,495, '1 BR',Campus House,,no,no,no,no,yes,no,no,no,yes,yes,yes
+763418,'https://d2cc5bro5bu049.cloudfront.net/19664/6419665/tile.jpg',43.069736,-89.389831,5100,, '8+ BR',15/17 S Bassett St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+763874,'https://d2cc5bro5bu049.cloudfront.net/19751/6419500/tile.jpg',43.076109,-89.390359,300,400, '8+ BR',Rochdale International Co-op,6082559260,no,no,no,no,yes,no,yes,yes,no,no,yes
+764936,'https://d2cc5bro5bu049.cloudfront.net/19889/8324702/tile.jpg',43.067348,-89.387835,740,1125, 'Studio - 2 BR',Diplomat Apartments,6082848483,no,no,no,yes,yes,no,no,yes,no,no,yes
+765497,'https://d2cc5bro5bu049.cloudfront.net/19664/16226875/tile.jpg',43.070696,-89.388433,3400,, '6 BR',20 S Broom St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+766063,'https://d2cc5bro5bu049.cloudfront.net/19581/6418673/tile.jpg',43.078735,-89.383414,1800,, '1 BR',143 N Butler St-2,,yes,no,no,yes,yes,no,no,yes,no,no,no
+766632,'https://d2cc5bro5bu049.cloudfront.net/19889/8323732/tile.jpg',43.068641,-89.389085,1295,1475, '3 BR',120 S Bassett St,6082848483,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+766900,'https://d2cc5bro5bu049.cloudfront.net/19664/10377400/tile.jpg',43.066208,-89.406473,0,, '5 BR',1221 Milton St,6082560525,no,no,no,no,yes,no,no,no,no,yes,yes
+766769,'https://d2cc5bro5bu049.cloudfront.net/19664/17636278/tile.jpg',43.069981,-89.390498,980,, '2 BR',3 S Bassett St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+767364,'https://d2cc5bro5bu049.cloudfront.net/19535/10993439/tile.jpg',43.071457,-89.401412,950,, '2 BR',Steven J. Apartments,6082195345,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes
+768183,'https://d2cc5bro5bu049.cloudfront.net/19664/6417446/tile.jpg',43.066999,-89.409249,0,, '7 BR',20 S Randall Ave,6082560525,yes,no,no,no,yes,no,no,yes,no,yes,yes
+767453,'https://d2cc5bro5bu049.cloudfront.net/19572/6624475/tile.jpeg',43.066610,-89.413322,1775,, '3 BR',1608 Madison St,6088488905,yes,no,no,no,no,no,no,yes,no,yes,yes
+3221378,'https://d2cc5bro5bu049.cloudfront.net/15875/26855291/tile.jpg',43.069673,-89.385690,895,, '1 BR',342 W Wilson St #1,6082414449,yes,no,no,yes,yes,no,no,yes,no,no,no
+3244795,'https://d2cc5bro5bu049.cloudfront.net/15875/27160869/tile.jpg',43.069755,-89.385834,1500,, '2 BR',340 W Wilson St,6082414449,yes,no,no,yes,yes,no,no,yes,no,no,no
+3244797,'https://d2cc5bro5bu049.cloudfront.net/15875/27160890/tile.png',43.069995,-89.386461,1265,, '2 BR',345 W Doty St,6082414449,yes,no,no,yes,yes,no,no,yes,no,no,yes
+2968424,'https://d2cc5bro5bu049.cloudfront.net/15875/24174357/tile.jpg',43.091262,-89.350183,1125,, '2 BR',2117 Center Ave,6082414449,no,no,no,yes,yes,no,no,no,no,no,no
+1285636,'https://d2cc5bro5bu049.cloudfront.net/127/10926693/tile.jpg',43.061443,-89.402179,1290,, '2 BR',515-517 S Brooks,6082553933,no,no,no,no,no,no,no,no,no,no,yes
+742153,'https://d2cc5bro5bu049.cloudfront.net/15264/6342794/tile.jpg',43.086743,-89.374299,1750,, '3 BR',1025 E. Gorham Street,6082571000,no,no,no,no,no,no,no,yes,no,no,no
+1748511,'https://d2cc5bro5bu049.cloudfront.net/66684/18720463/tile.jpg',43.085303,-89.360445,700,, '1 BR',414 S Dickinson St,6083342316,yes,no,no,no,yes,no,no,no,no,no,no
+1066743,'https://d2cc5bro5bu049.cloudfront.net/14435/16877235/tile.jpg',43.080673,-89.378354,1200,, '3 BR',656 E. Mifflin Street,6085569844,no,no,no,no,yes,no,yes,yes,no,no,no
+742927,'https://d2cc5bro5bu049.cloudfront.net/16364/27017716/tile.jpeg',43.064527,-89.406683,2675,, '5 BR',1224 Chandler St,6082205493,no,no,no,no,yes,no,no,no,no,yes,yes
+3318469,'https://d2cc5bro5bu049.cloudfront.net/16180/28124340/tile.jpeg',43.091150,-89.342519,2400,, '4 BR',540 Elmside Blvd,6082442187,no,no,no,yes,yes,no,no,no,no,no,no
+746875,'https://d2cc5bro5bu049.cloudfront.net/15264/6343818/tile.jpg',43.077738,-89.380337,780,, '1 BR',406 E Washington Avenue,6082571000,no,no,yes,yes,yes,no,no,yes,no,no,no
+3334184,'https://d2cc5bro5bu049.cloudfront.net/15949/28244539/tile.jpg',43.089453,-89.367757,1400,, '1 BR',1320 E Dayton Street,6084671381,no,no,no,no,yes,no,no,no,no,no,no
+3324044,'https://d2cc5bro5bu049.cloudfront.net/87748/28275600/tile.jpg',43.077859,-89.393312,425,475, '8+ BR',150 Iota Court,5072618815,no,no,no,no,yes,no,no,yes,no,no,yes
+760670,'https://d2cc5bro5bu049.cloudfront.net/19833/6416731/tile.jpg',43.061443,-89.426947,1950,, '3 BR',Single Family Home Near Sw Bike Path,,yes,no,no,no,no,no,no,no,no,no,yes
+1262142,'https://d2cc5bro5bu049.cloudfront.net/127/10659488/tile.jpg',43.068927,-89.403413,1725,, '2 BR',1020 Fahrenbrook Court,6082553933,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+3339569,'https://d2cc5bro5bu049.cloudfront.net/88047/28313453/tile.jpeg',43.070761,-89.402539,750,, '4 BR',1001 W Dayton St- Dayton House,8472121305,no,yes,yes,yes,yes,no,no,yes,no,yes,yes
+3339890,'https://d2cc5bro5bu049.cloudfront.net/19898/28318098/tile.jpg',43.072346,-89.393959,460,, '3 BR',308 North Bassett Street,6082567368,no,no,no,yes,yes,no,yes,yes,no,no,yes
+1579440,'https://d2cc5bro5bu049.cloudfront.net/64519/28337618/tile.png',43.065606,-89.415664,1290,, '2 BR',1717 Monroe St,6083545015,yes,no,no,no,no,no,yes,yes,no,yes,yes
+3283687,'https://d2cc5bro5bu049.cloudfront.net/87048/28150386/tile.jpeg',43.073798,-89.418074,840,1275, '1 - 2 BR',1904 Birge Terrace,6082205493,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes
+740890,'https://d2cc5bro5bu049.cloudfront.net/14634/11929139/tile.jpg',43.070752,-89.385256,1350,, '3 BR',307 W Doty St,6085766964,yes,no,no,yes,yes,no,no,yes,no,no,no
+760653,'https://d2cc5bro5bu049.cloudfront.net/19681/10695796/tile.jpg',43.069507,-89.416287,500,, '4 BR',1720 Van Hise Ave,6086988784,no,no,no,no,yes,no,no,yes,yes,yes,yes
+761176,'https://d2cc5bro5bu049.cloudfront.net/19761/6417282/tile.jpg',43.065847,-89.405157,1794,4680, '3 - 8+ BR',1125 St. James Ct,9202061768,no,no,no,no,yes,no,no,no,no,yes,yes
+761716,'https://d2cc5bro5bu049.cloudfront.net/19687/27668009/tile.png',43.074274,-89.441944,1095,, '1 BR',3010 Harvey St,6088388002,no,no,no,no,no,no,yes,yes,no,no,no
+760924,'https://d2cc5bro5bu049.cloudfront.net/19759/27106962/tile.jpg',43.070457,-89.388477,860,, '1 BR',412 W Main Street,6085166865,no,no,yes,yes,yes,no,yes,yes,no,no,yes
+764299,'https://d2cc5bro5bu049.cloudfront.net/19498/6418711/tile.jpg',43.078152,-89.382616,1695,1725, '3 BR',113 N Butler St,6085757744,no,no,yes,yes,yes,no,no,yes,no,no,no
+761098,'https://d2cc5bro5bu049.cloudfront.net/19639/14325606/tile.jpg',43.065529,-89.410059,825,1400, '1 - 2 BR',Mound Street Apartments,6082415777,no,no,no,no,no,no,no,yes,no,yes,yes
+767574,'https://d2cc5bro5bu049.cloudfront.net/19498/6417822/tile.jpg',43.061296,-89.403348,2475,, '4 BR',1018 Emerald St,6085757744,no,no,no,no,no,no,no,no,no,yes,yes
+3344888,'https://d2cc5bro5bu049.cloudfront.net/88162/28385736/tile.jpg',43.066588,-89.413286,463,591, '1 BR',1608 Madison St. Apt. 2,9206041656,yes,no,no,no,no,no,no,yes,no,yes,yes
+3283679,'https://d2cc5bro5bu049.cloudfront.net/87048/27609430/tile.jpg',43.064412,-89.406684,2675,, '5 BR',1224 Chandler Street,6082205493,no,no,no,no,yes,no,no,no,no,yes,yes
+3252308,'https://d2cc5bro5bu049.cloudfront.net/86523/28243492/tile.jpg',43.107797,-89.347983,1695,, '2 BR',2622 Moland St,6082351514,no,no,no,no,no,no,no,yes,no,no,no
+749595,'https://d2cc5bro5bu049.cloudfront.net/12231/6344291/tile.jpg',43.078143,-89.388705,775,850, '1 BR',1 W Gilman St,6082220365,no,no,no,no,yes,no,no,yes,no,no,yes
+741009,'https://d2cc5bro5bu049.cloudfront.net/13336/6342031/tile.jpg',43.069100,-89.387726,1200,1410, '2 - 3 BR',427 W Doty St,,no,no,no,yes,yes,no,yes,yes,no,no,yes
+832201,'https://d2cc5bro5bu049.cloudfront.net/35996/7042371/tile.jpg',43.081090,-89.443689,900,, '1 BR',1202 Shorewood Boulevard,6082347825,no,no,no,no,no,no,no,yes,no,no,no
+1975827,'https://d2cc5bro5bu049.cloudfront.net/69174/24609767/tile.jpg',43.133154,-89.311853,1100,, '2 BR',East Towne Area,6084922076,no,no,no,no,no,no,no,no,no,no,no
+3347863,'https://d2cc5bro5bu049.cloudfront.net/88210/28426967/tile.png',43.073340,-89.465417,800,870, '1 BR',Chapel Hill Apartment 1b1b,6083203819,no,no,no,no,yes,no,no,no,no,no,no
+3360271,'https://d2cc5bro5bu049.cloudfront.net/14615/28553934/tile.jpg',43.066376,-89.412491,2800,, '6 BR',906 Oakland Avenue,6086589049,no,no,no,no,no,no,no,yes,no,yes,yes
+3161871,'https://d2cc5bro5bu049.cloudfront.net/84784/26104184/tile.jpg',43.085500,-89.376067,620,, '2 BR',Norris Court,3107338987,no,no,no,no,yes,no,yes,yes,no,no,no
+741985,'https://d2cc5bro5bu049.cloudfront.net/12303/6342750/tile.jpg',43.069455,-89.391614,850,, '1 BR',526 W Washington Ave,6088494378,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+743290,'https://d2cc5bro5bu049.cloudfront.net/15264/6343153/tile.jpg',43.106021,-89.482949,830,875, '1 BR',Willow Cove,6082571000,no,no,no,no,no,no,no,no,no,no,no
+740885,'https://d2cc5bro5bu049.cloudfront.net/18492/6342025/tile.jpg',43.076063,-89.391279,2065,3325, '3 - 5 BR',151 W Gilman St,6082558633,yes,no,no,no,yes,no,yes,yes,no,no,yes
+743000,'https://d2cc5bro5bu049.cloudfront.net/18492/6343038/tile.jpg',43.069763,-89.383954,1090,1645, '1 - 2 BR',325 S Hamilton St,6082558633,yes,no,no,yes,yes,no,no,yes,no,no,no
+741419,'https://d2cc5bro5bu049.cloudfront.net/18492/6342557/tile.jpg',43.103217,-89.345450,640,1445, 'Studio - 2 BR',237 Lake Lawn Pl,6082558633,yes,no,no,no,no,no,no,no,no,no,no
+1273808,'https://d2cc5bro5bu049.cloudfront.net/19759/27107352/tile.jpg',43.070852,-89.388803,2150,, '4 BR',407 1/2 W. Washington Ave,6085166865,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+3157840,'https://d2cc5bro5bu049.cloudfront.net/19872/26065923/tile.jpg',43.067352,-89.389077,750,, '1 BR',532 W Wilson St #3,6083479629,no,no,no,yes,yes,no,no,yes,no,no,yes
+2501707,'https://d2cc5bro5bu049.cloudfront.net/66323/26097623/tile.jpg',43.078911,-89.382313,1000,, '1 BR',North Hancock Street,6083818369,no,no,no,yes,yes,no,no,yes,no,no,no
+3370713,'https://d2cc5bro5bu049.cloudfront.net/15875/28697014/tile.png',43.069956,-89.386448,1750,, '3 BR',347 W. Doty Street,6082414449,yes,no,no,yes,yes,no,no,yes,no,no,yes
+2463468,'https://d2cc5bro5bu049.cloudfront.net/60991/27872051/tile.jpg',43.061318,-89.401098,1620,, '3 BR',520 S Park St Apt 2s,,no,no,no,no,no,no,no,no,no,no,yes
+3221490,'https://d2cc5bro5bu049.cloudfront.net/15875/26857098/tile.jpg',43.069880,-89.386559,1695,, '3 BR',349-351 W Doty St,6082414449,yes,no,no,yes,yes,no,no,yes,no,no,yes
+2575508,'https://d2cc5bro5bu049.cloudfront.net/78375/21440600/tile.jpg',43.089671,-89.327552,550,, '1 BR',3538 Johns St,7154561236,no,no,no,no,no,no,no,no,no,no,no
+741219,'https://d2cc5bro5bu049.cloudfront.net/15264/6342473/tile.jpg',43.070935,-89.390291,1695,, '3 BR',432 W. Washington Avenue,6082571000,yes,no,yes,yes,yes,yes,yes,yes,no,no,yes
+2698672,'https://d2cc5bro5bu049.cloudfront.net/15264/22140768/tile.jpg',43.074124,-89.393989,1050,1500, '1 - 2 BR',421 W. Gilman Street,6082571000,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+1262144,'https://d2cc5bro5bu049.cloudfront.net/127/10659714/tile.jpg',43.078411,-89.386103,1525,, '3 BR',109 E Gorham,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,yes
+743001,'https://d2cc5bro5bu049.cloudfront.net/12168/12795265/tile.jpg',43.067640,-89.411608,1750,, '3 BR',1504 Madison St,6085777900,no,no,no,no,no,no,no,yes,no,yes,yes
+1263837,'https://d2cc5bro5bu049.cloudfront.net/127/10695670/tile.jpg',43.078848,-89.385529,1735,, '3 BR',129 E Gorham,6084415625,no,no,no,yes,yes,no,no,yes,no,no,no
+1263848,'https://d2cc5bro5bu049.cloudfront.net/127/10695815/tile.jpg',43.078489,-89.382969,1765,, '3 BR',129 N Butler,6084415625,no,no,no,yes,yes,no,no,yes,no,no,no
+1263963,'https://d2cc5bro5bu049.cloudfront.net/127/10697365/tile.jpg',43.078889,-89.385343,1740,, '3 BR',133 E Gorham,6084415625,no,no,no,yes,yes,no,no,yes,no,no,no
+1283891,'https://d2cc5bro5bu049.cloudfront.net/127/10905821/tile.jpg',43.077837,-89.383792,1125,1260, '2 BR',203 N Hamilton,6084415625,yes,no,yes,yes,yes,no,no,yes,no,no,no
+1283884,'https://d2cc5bro5bu049.cloudfront.net/127/10905742/tile.jpg',43.075748,-89.377731,1650,, '3 BR',141 S Hancock St,6084415625,no,no,no,yes,yes,no,no,yes,no,no,no
+1283668,'https://d2cc5bro5bu049.cloudfront.net/127/10901855/tile.jpg',43.078431,-89.383796,510,, 'Studio',140 N Butler,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,no
+1282057,'https://d2cc5bro5bu049.cloudfront.net/127/10885998/tile.jpg',43.078998,-89.385185,1400,, '2 BR',137 E Gorham,6084415625,no,no,no,yes,yes,no,no,yes,no,no,no
+1285394,'https://d2cc5bro5bu049.cloudfront.net/127/10922644/tile.jpg',43.078191,-89.386145,1985,2390, '3 - 4 BR',315 N Pinckney,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,yes
+3340112,'https://d2cc5bro5bu049.cloudfront.net/88061/28320928/tile.jpg',43.091386,-89.347427,700,, '1 BR',2306 Willard Ave,6085207055,yes,no,no,yes,yes,no,no,no,no,no,no
+1262147,'https://d2cc5bro5bu049.cloudfront.net/127/10659984/tile.jpg',43.078701,-89.386131,1850,2085, '4 - 5 BR',115 E Gorham,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,yes
+749218,'https://d2cc5bro5bu049.cloudfront.net/12983/7026409/tile.jpg',43.074896,-89.395786,620,1220, 'Studio - 2 BR',The Hawthorne Buildings,6082559723,yes,no,no,yes,yes,no,yes,yes,no,yes,yes
+746881,'https://d2cc5bro5bu049.cloudfront.net/12983/6343852/tile.jpg',43.073052,-89.401230,1260,, '2 BR',The Hawthorne Buildings,6082559723,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes
+764122,'https://d2cc5bro5bu049.cloudfront.net/19759/27089641/tile.jpg',43.070852,-89.388803,2375,, '4 BR',407 W Washington Ave,6085166865,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+762889,'https://d2cc5bro5bu049.cloudfront.net/19630/15077378/tile.jpg',43.067623,-89.388802,630,650, 'Studio',522 W Wilson St,6082427700,no,no,no,yes,yes,no,no,yes,no,no,yes
+750713,'https://d2cc5bro5bu049.cloudfront.net/12231/6344642/tile.jpg',43.073655,-89.394753,750,875, '1 BR',445 W Gilman St,6082220365,no,no,no,yes,yes,no,yes,yes,no,yes,yes
+207,'https://d2cc5bro5bu049.cloudfront.net/102/17461818/tile.jpg',43.077000,-89.385300,1095,1110, '2 BR',202 N Pinckney St,6082564200,yes,no,yes,yes,yes,no,no,yes,no,no,no
+191144,'https://d2cc5bro5bu049.cloudfront.net/5491/6474157/tile.jpg',43.074160,-89.395780,975,, '5 BR',Hub Madison,6085094103,yes,no,no,yes,yes,no,yes,yes,no,yes,yes
+760905,'https://d2cc5bro5bu049.cloudfront.net/20316/7003314/tile.jpg',43.096643,-89.345859,595,, '1 BR',137 Talmadge St,6085091988,no,no,no,yes,yes,no,no,no,no,no,no
+760581,'https://d2cc5bro5bu049.cloudfront.net/19792/11973192/tile.jpg',43.078148,-89.388005,795,, '1 BR',415 Wisconsin Ave,6082510113,yes,no,no,yes,yes,no,no,yes,no,no,yes
+3201349,'https://d2cc5bro5bu049.cloudfront.net/85084/26599878/tile.jpg',43.074956,-89.389168,1350,1800, '3 - 4 BR',226 1/2 State St.,6085755975,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+30065,'https://d2cc5bro5bu049.cloudfront.net/4287/20035256/tile.jpg',43.075144,-89.395121,0,, '2 BR',The Statesider,6088889126,yes,no,no,yes,yes,no,yes,yes,no,yes,yes
+3244405,'https://d2cc5bro5bu049.cloudfront.net/86322/27158174/tile.jpg',43.073837,-89.418222,845,, '1 BR',1906 Birge Terrace,6082879319,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+3380819,'https://d2cc5bro5bu049.cloudfront.net/79371/29391561/tile.jpg',43.094647,-89.492075,1250,1850, '4 BR',2009 Lakeview,6083450253,yes,no,no,no,no,no,no,no,no,no,no
+585710,'https://d2cc5bro5bu049.cloudfront.net/9439/27662156/tile.jpg',43.067777,-89.389370,638,748, 'Studio - 1 BR',Doty Street Apartments,6082334351,no,no,no,yes,yes,no,no,yes,no,no,yes
+3382526,'https://d2cc5bro5bu049.cloudfront.net/19991/29905782/tile.jpg',43.086395,-89.359704,800,, '1 BR',1427 Williamson St Apt 2,6064385017,yes,no,no,no,yes,no,no,no,no,no,no
+2830328,'https://d2cc5bro5bu049.cloudfront.net/13510/23174705/tile.jpg',43.078951,-89.367350,1790,, '3 BR',926 Spaight St,6082352558,no,no,no,no,yes,no,no,yes,no,no,no
+552,'https://d2cc5bro5bu049.cloudfront.net/173/18487764/tile.jpg',43.069199,-89.407303,519,769, 'Studio - 1 BR',45 N Orchard St,6082512715,no,yes,no,no,yes,no,no,no,no,yes,yes
+549,'https://d2cc5bro5bu049.cloudfront.net/173/7282/tile.jpeg',43.069599,-89.408302,949,, '1 BR',1320 Spring St,6082512715,no,no,no,no,yes,no,no,no,yes,yes,yes
+555,'https://d2cc5bro5bu049.cloudfront.net/173/7287/tile.jpeg',43.069599,-89.407799,745,829, 'Studio - 1 BR',1308 Spring St,6082512715,no,no,no,no,yes,no,no,no,yes,yes,yes
+556,'https://d2cc5bro5bu049.cloudfront.net/173/7288/tile.jpeg',43.069374,-89.407941,975,, '2 BR',1309 Spring St,6082512715,no,no,no,no,yes,no,no,no,yes,yes,yes
+766,'https://d2cc5bro5bu049.cloudfront.net/162/7466/tile.jpeg',43.075100,-89.393097,1175,, '2 BR',243 W Gilman St,6088196500,yes,no,no,no,yes,no,yes,yes,no,no,yes
+18582,'https://d2cc5bro5bu049.cloudfront.net/173/194110/tile.jpg',43.079347,-89.384291,2369,, '5 BR',The Church,6084672001,yes,no,no,yes,yes,no,no,yes,no,no,no
+83709,'https://d2cc5bro5bu049.cloudfront.net/173/8471105/tile.jpg',43.075944,-89.377941,739,865, 'Studio - 1 BR',135 S Hancock St,6084672001,no,no,no,yes,yes,no,no,yes,no,no,no
+752659,'https://d2cc5bro5bu049.cloudfront.net/173/28117462/tile.jpg',43.069248,-89.408745,1659,2499, '2 - 3 BR',Park Terrace West,6087290978,no,no,no,no,yes,no,no,no,yes,yes,yes
+1262145,'https://d2cc5bro5bu049.cloudfront.net/127/10659778/tile.jpg',43.076042,-89.379073,1000,, '1 BR',110 S Hancock,6088196500,no,no,no,yes,yes,no,no,yes,no,no,no
+761321,'https://d2cc5bro5bu049.cloudfront.net/19655/6417813/tile.jpg',43.078416,-89.382184,1795,, '4 BR',116 N Hancock St,6085772401,no,no,yes,yes,yes,no,no,yes,no,no,no
+768050,'https://d2cc5bro5bu049.cloudfront.net/19655/12345030/tile.jpg',43.068353,-89.388016,2995,, '7 BR',215 S Bassett St,6085772401,no,no,no,yes,yes,no,no,yes,no,no,yes
+763176,'https://d2cc5bro5bu049.cloudfront.net/19543/6621625/tile.jpg',43.077100,-89.393625,580,595, 'Studio',240 Lakelawn Pl,6082556550,no,no,no,no,yes,no,no,yes,no,no,yes
+760988,'https://d2cc5bro5bu049.cloudfront.net/19543/6621492/tile.jpg',43.078008,-89.390338,765,1500, '1 - 3 BR',29 Langdon St,6082556550,yes,no,no,no,yes,no,no,yes,no,no,yes
+2599898,'https://d2cc5bro5bu049.cloudfront.net/67805/21442487/tile.jpg',43.055880,-89.450336,1130,1200, '2 BR',Midvale Heights Apartments,6082338292,no,no,yes,yes,yes,no,no,no,no,no,no
+3388093,'https://d2cc5bro5bu049.cloudfront.net/88933/30306584/tile.jpg',43.068554,-89.389216,1750,, '3 BR',508 W Doty #1,6082997680,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+3388095,'https://d2cc5bro5bu049.cloudfront.net/88933/30307529/tile.jpg',43.068223,-89.388669,2450,, '5 BR',208 S Bassett St,6082997680,yes,no,no,yes,yes,no,no,yes,no,no,yes
+750797,'https://d2cc5bro5bu049.cloudfront.net/15264/7008958/tile.jpg',43.080717,-89.381253,1925,, '4 BR',601 E. Johnson Street,6082571000,yes,no,no,yes,yes,no,no,yes,no,no,no
+741449,'https://d2cc5bro5bu049.cloudfront.net/15264/6985615/tile.jpg',43.070547,-89.390027,1695,1825, '3 - 4 BR',438 W. Washington Avenue,6082571000,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+3388028,'https://d2cc5bro5bu049.cloudfront.net/88933/30306584/tile.jpg',43.068554,-89.389216,1750,, '3 BR',508 W Doty #2,6082997680,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+3386462,'https://d2cc5bro5bu049.cloudfront.net/88892/30322824/tile.jpg',43.073837,-89.418222,845,, '1 BR',1906 Birge Terrace,6082879319,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+3388166,'https://d2cc5bro5bu049.cloudfront.net/88933/30308957/tile.jpg',43.062295,-89.403531,2200,, '5 BR',1026 Drake St,6082997680,yes,no,no,no,no,no,no,no,no,yes,yes
+3388278,'https://d2cc5bro5bu049.cloudfront.net/88933/30309527/tile.jpg',43.067771,-89.390409,1400,, '3 BR',546 W Doty #4,6082997680,no,no,no,yes,yes,no,no,yes,no,no,yes
+3388164,'https://d2cc5bro5bu049.cloudfront.net/88933/30308895/tile.jpg',43.067771,-89.390409,1600,, '3 BR',546 W Doty #2,6082997680,no,no,no,yes,yes,no,no,yes,no,no,yes
+3388966,'https://d2cc5bro5bu049.cloudfront.net/88948/30320620/tile.jpg',43.072856,-89.422973,444,689, '3 BR',University Bay,9205397318,yes,no,no,no,yes,no,no,no,no,yes,yes
+3388025,'https://d2cc5bro5bu049.cloudfront.net/88933/30306528/tile.jpg',43.079181,-89.381675,2250,, '3 BR',124 N Franklin St #1,6082997680,no,no,no,yes,yes,no,no,yes,no,no,no
+3388027,'https://d2cc5bro5bu049.cloudfront.net/88933/30306543/tile.jpg',43.061458,-89.404116,1900,, '3 BR',520 S Mills St #2,6082997680,no,no,no,no,no,no,no,no,no,yes,yes
+780009,'https://d2cc5bro5bu049.cloudfront.net/19563/16958809/tile.jpg',43.072288,-89.395517,840,, '1 BR',Saxony Apartments,6088880308,yes,no,no,yes,yes,no,yes,yes,no,yes,yes
+994931,'https://d2cc5bro5bu049.cloudfront.net/19991/8420598/tile.jpg',43.069700,-89.386351,800,, '1 BR',209 S Broom St Apt #3,6064385017,yes,no,no,yes,yes,no,no,yes,no,no,no
+83716,'https://d2cc5bro5bu049.cloudfront.net/173/7175344/tile.jpg',43.076493,-89.377795,755,, 'Studio',126 S Franklin St,6084672001,no,no,no,yes,yes,no,no,yes,no,no,no
+1511946,'https://d2cc5bro5bu049.cloudfront.net/12830/14863032/tile.jpg',43.012073,-89.428925,1115,1420, '1 - 2 BR',Seminole Woods Apartments,6082769440,yes,no,no,no,yes,no,no,no,no,no,no
+762021,'https://d2cc5bro5bu049.cloudfront.net/19703/26548353/tile.jpg',43.083546,-89.478071,795,825, '1 BR',Capital Ave,6085750174,yes,no,no,no,no,no,no,no,no,no,no
+1059823,'https://d2cc5bro5bu049.cloudfront.net/74458/30351670/tile.jpg',43.072767,-89.392793,669,1539, '1 - 2 BR',The Lux,6084801691,no,no,no,yes,yes,no,yes,yes,no,no,yes
+744253,'https://d2cc5bro5bu049.cloudfront.net/12773/6343469/tile.jpg',43.072752,-89.419744,1245,, '2 BR',2001-2003 University Ave,6086303222,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+741872,'https://d2cc5bro5bu049.cloudfront.net/70639/17658388/tile.jpg',43.072692,-89.420186,1975,, '3 BR',2009-2011 University Ave,6085355023,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+782913,'https://d2cc5bro5bu049.cloudfront.net/12773/6557038/tile.jpg',43.071674,-89.426199,925,1395, '1 - 2 BR',2308 Kendall Avenue,6086303222,no,no,no,no,yes,no,no,no,no,yes,yes
+741871,'https://d2cc5bro5bu049.cloudfront.net/12773/6342057/tile.jpg',43.072721,-89.419965,1750,1825, '3 BR',2005-2007 University Ave,6086303222,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+245,'https://d2cc5bro5bu049.cloudfront.net/162/28149128/tile.jpg',43.068199,-89.424500,1195,, '2 BR',2212 Regent St,6082518777,yes,no,no,no,no,no,no,yes,no,yes,yes
+214,'https://d2cc5bro5bu049.cloudfront.net/75856/19597818/tile.jpg',43.075268,-89.391072,835,3780, 'Studio - 5 BR',Laurel Commons,6084675909,yes,no,no,no,yes,no,yes,yes,no,no,yes
+224,'https://d2cc5bro5bu049.cloudfront.net/162/17820272/tile.jpg',43.071499,-89.405701,3135,, '4 BR',210 North Charter,6082518777,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes
+1296814,'https://d2cc5bro5bu049.cloudfront.net/110/25891062/tile.jpg',43.070701,-89.384934,1560,, '3 BR',212 S. Henry St.,6082569500,yes,no,no,yes,yes,no,no,yes,no,no,no
+100,'https://d2cc5bro5bu049.cloudfront.net/162/6914/tile.jpeg',43.078301,-89.384903,1195,, '2 BR',131 E Johnson St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,no
+101,'https://d2cc5bro5bu049.cloudfront.net/162/6915/tile.jpeg',43.064098,-89.407700,1625,, '3 BR',1311 Chandler St,6082518777,no,no,no,no,no,no,no,no,no,yes,yes
+1296673,'https://d2cc5bro5bu049.cloudfront.net/110/25891010/tile.jpg',43.071922,-89.389960,1850,1875, '3 BR',401 W. Mifflin St.,6082569500,no,no,yes,yes,yes,yes,yes,yes,no,no,yes
+410,'https://d2cc5bro5bu049.cloudfront.net/162/7194/tile.jpeg',43.069281,-89.391027,1495,, '3 BR',521 W Washington Ave,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+416,'https://d2cc5bro5bu049.cloudfront.net/162/7200/tile.jpeg',43.069099,-89.391296,1015,1250, '2 BR',533 W Washington Ave,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+419,'https://d2cc5bro5bu049.cloudfront.net/162/7203/tile.jpeg',43.069000,-89.391502,1295,, '3 BR',537 W Washington Ave,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+152,'https://d2cc5bro5bu049.cloudfront.net/162/6962/tile.jpeg',43.077900,-89.380699,625,760, 'Studio - 1 BR',15 N Hancock St,6082518777,no,no,yes,yes,yes,no,no,yes,no,no,no
+321,'https://d2cc5bro5bu049.cloudfront.net/162/7114/tile.jpeg',43.072250,-89.390406,795,, '1 BR',404 W Mifflin St,6082518777,no,no,no,yes,yes,yes,yes,yes,no,no,yes
+335,'https://d2cc5bro5bu049.cloudfront.net/162/7127/tile.jpeg',43.069500,-89.387398,1195,, '3 BR',411 W Doty St,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+137,'https://d2cc5bro5bu049.cloudfront.net/162/6949/tile.jpeg',43.062100,-89.409401,1020,1495, '1 - 2 BR',1406 Drake St,6082518777,no,no,no,no,no,no,no,yes,no,yes,yes
+290,'https://d2cc5bro5bu049.cloudfront.net/162/7088/tile.jpeg',43.073002,-89.414101,1350,, '2 BR',316 N Breese Terrace,6082518777,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+358,'https://d2cc5bro5bu049.cloudfront.net/162/7147/tile.jpeg',43.069801,-89.388298,605,1050, 'Studio - 3 BR',427 West Main,6082518777,no,no,yes,yes,yes,no,yes,yes,no,no,yes
+447,'https://d2cc5bro5bu049.cloudfront.net/145/15813780/tile.jpg',43.072899,-89.398697,550,1675, 'Studio - 4 BR',Lucky,6087290677,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+332,'https://d2cc5bro5bu049.cloudfront.net/162/17850857/tile.jpg',43.073601,-89.392998,1165,, 'Studio',Equinox Apartments,6088889573,yes,no,no,no,yes,no,yes,yes,no,no,yes
+771,'https://d2cc5bro5bu049.cloudfront.net/162/27697354/tile.jpg',43.069302,-89.389198,1295,, '3 BR',449 W Main St,6082518777,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+718,'https://d2cc5bro5bu049.cloudfront.net/162/7418/tile.jpeg',43.069801,-89.414200,2395,, '4 BR',110 N Breese Terrace,6082518777,yes,no,no,no,no,no,no,yes,yes,yes,yes
+746,'https://d2cc5bro5bu049.cloudfront.net/162/7446/tile.jpeg',43.063400,-89.405197,1095,, '2 BR',1126 Vilas Ave,6082518777,no,no,no,no,no,no,no,no,no,yes,yes
+639,'https://d2cc5bro5bu049.cloudfront.net/162/4392694/tile.jpg',43.070999,-89.408501,2370,, '2 BR',Vantage Point,6082518777,no,no,no,no,yes,no,no,no,yes,yes,yes
+734,'https://d2cc5bro5bu049.cloudfront.net/162/7434/tile.jpeg',43.074001,-89.379601,720,1160, 'Studio - 1 BR',126 E Wilson St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,no
+726,'https://d2cc5bro5bu049.cloudfront.net/162/7426/tile.jpeg',43.071800,-89.405998,2525,, '5 BR',222 N Charter St,6082518777,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes
+723,'https://d2cc5bro5bu049.cloudfront.net/162/3025389/tile.jpeg',43.070301,-89.387497,1225,, '3 BR',106 S Broom St,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+722,'https://d2cc5bro5bu049.cloudfront.net/162/3025422/tile.jpeg',43.073643,-89.392311,1150,, '2 BR',312 N Broom St,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+725,'https://d2cc5bro5bu049.cloudfront.net/162/7425/tile.jpeg',43.068001,-89.405701,1225,, '2 BR',6 N Charter St,6082518777,no,no,no,no,yes,no,no,no,no,yes,yes
+783,'https://d2cc5bro5bu049.cloudfront.net/162/7483/tile.jpeg',43.079316,-89.382822,1225,, '3 BR',149 N Hancock St,6082518777,no,no,no,yes,yes,no,no,yes,no,no,no
+803,'https://d2cc5bro5bu049.cloudfront.net/250/16677537/tile.jpg',43.076698,-89.392601,1130,1180, '2 BR',Brian House,6082572127,yes,no,no,no,yes,no,no,yes,no,no,yes
+808,'https://d2cc5bro5bu049.cloudfront.net/250/6564381/tile.jpg',43.076099,-89.392197,1015,, '2 BR',508 N Henry St,6082572127,yes,no,no,no,yes,no,yes,yes,no,no,yes
+853,'https://d2cc5bro5bu049.cloudfront.net/162/7606/tile.jpg',43.072601,-89.420898,495,1995, '1 - 4 BR',2027 University Ave,6082518777,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+852,'https://d2cc5bro5bu049.cloudfront.net/162/3077185/tile.jpeg',43.070897,-89.385192,850,, '1 BR',202 S Henry St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,no
+760,'https://d2cc5bro5bu049.cloudfront.net/162/7460/tile.jpeg',43.065102,-89.405403,495,5925, '1 - 8+ BR',1129 Mound St,6082518777,no,no,no,no,yes,no,no,no,no,yes,yes
+770,'https://d2cc5bro5bu049.cloudfront.net/162/16834788/tile.jpeg',43.069099,-89.389603,1595,, '4 BR',501 W Main St,6082518777,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+771,'https://d2cc5bro5bu049.cloudfront.net/162/27697354/tile.jpg',43.069302,-89.389198,1295,, '3 BR',449 W Main St,6082518777,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+718,'https://d2cc5bro5bu049.cloudfront.net/162/7418/tile.jpeg',43.069801,-89.414200,2395,, '4 BR',110 N Breese Terrace,6082518777,yes,no,no,no,no,no,no,yes,yes,yes,yes
+437,'https://d2cc5bro5bu049.cloudfront.net/162/3091839/tile.jpeg',43.081799,-89.380302,845,, '1 BR',648 E Johnson St,6082518777,no,no,no,no,yes,no,no,yes,no,no,no
+2444,'https://d2cc5bro5bu049.cloudfront.net/250/16670097/tile.jpg',43.076233,-89.392700,1140,, '2 BR',211 Langdon St,6082572127,yes,no,no,no,yes,no,yes,yes,no,no,yes
+2093,'https://d2cc5bro5bu049.cloudfront.net/162/21297/tile.jpg',43.065517,-89.405472,1795,, '4 BR',1132 Mound St,6082518777,no,no,no,no,yes,no,no,no,no,yes,yes
+2071,'https://d2cc5bro5bu049.cloudfront.net/162/17506735/tile.jpg',43.066124,-89.414536,1295,, '2 BR',811 Garfield St,6082518777,yes,no,no,no,no,no,yes,yes,no,yes,yes
+96513,'https://d2cc5bro5bu049.cloudfront.net/162/960698/tile.jpg',43.083253,-89.379152,1225,, '2 BR',739 E Gorham St,6082518777,yes,no,no,no,yes,no,yes,yes,no,no,no
+1847,'https://d2cc5bro5bu049.cloudfront.net/87993/28513436/tile.jpg',43.069481,-89.410049,669,1449, 'Studio - 4 BR',Lark At Randall,5075561397,no,yes,no,no,yes,no,no,yes,yes,yes,yes
+684382,'https://d2cc5bro5bu049.cloudfront.net/55627/12299663/tile.jpg',43.069820,-89.393767,699,1599, 'Studio - 4 BR',Lark At Kohl,6086651500,yes,yes,no,yes,yes,no,no,yes,no,no,yes
+763959,'https://d2cc5bro5bu049.cloudfront.net/19828/20604885/tile.jpg',43.062115,-89.440068,1725,, '2 BR',"Near West-sunset Village 2 Br,  1.5 Ba House",6083343309,no,no,no,no,no,no,no,no,no,no,no
+2000,'https://d2cc5bro5bu049.cloudfront.net/162/3063404/tile.jpeg',43.064415,-89.408501,495,2360, '1 - 5 BR',1326 Chandler St,6082518777,no,no,no,no,no,no,no,no,no,yes,yes
+537330,'https://d2cc5bro5bu049.cloudfront.net/162/4637211/tile.jpeg',43.072447,-89.433768,1025,1070, '2 BR',508 Farley Ave,6082518777,no,no,no,no,no,no,no,no,no,no,yes
+388323,'https://d2cc5bro5bu049.cloudfront.net/162/3066974/tile.jpeg',43.068274,-89.389701,1025,, '2 BR',522 W Doty St,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+780008,'https://d2cc5bro5bu049.cloudfront.net/111/6532495/tile.jpg',43.084009,-89.377270,1300,, '2 BR',830 E. Johnson Street,6082571000,no,no,no,no,yes,no,yes,yes,no,no,no
+1263768,'https://d2cc5bro5bu049.cloudfront.net/127/10693466/tile.jpg',43.069913,-89.406734,865,1045, 'Studio - 1 BR',1218 Spring St,6082553933,no,yes,no,no,yes,no,no,no,yes,yes,yes
+1266791,'https://d2cc5bro5bu049.cloudfront.net/127/10722924/tile.jpg',43.078599,-89.385075,720,1230, 'Studio - 2 BR',134 E Johnson,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,no
+781255,'https://d2cc5bro5bu049.cloudfront.net/20531/6542058/tile.jpg',43.057482,-89.428259,900,, '2 BR',2611 1/2 - 2613 Monroe Street,6082334440,yes,no,no,no,no,no,no,no,no,no,yes
+1263978,'https://d2cc5bro5bu049.cloudfront.net/127/10699368/tile.jpg',43.078554,-89.383054,1790,2185, '3 - 4 BR',133 N Butler,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,no
+1181,'https://d2cc5bro5bu049.cloudfront.net/292/17194965/tile.jpg',43.073200,-89.394798,1045,, 'Studio',LaCiel,6082858693,no,no,no,yes,yes,no,yes,yes,no,no,yes
+1169,'https://d2cc5bro5bu049.cloudfront.net/292/17195315/tile.jpg',43.068501,-89.403099,0,, '2 BR',Brooks Towne Townhomes,6087090307,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+1179,'https://d2cc5bro5bu049.cloudfront.net/292/16659733/tile.jpg',43.073002,-89.392502,995,1035, '1 - 2 BR',Johnson House,6082519002,no,no,no,yes,yes,no,yes,yes,no,no,yes
+3396025,'https://d2cc5bro5bu049.cloudfront.net/77781/30427382/tile.jpg',43.078451,-89.380009,2100,, '3 BR',15 N Franklin St.,6082848483,no,no,no,yes,yes,no,no,yes,no,no,no
+2003144,'https://d2cc5bro5bu049.cloudfront.net/127/19592477/tile.jpg',43.070647,-89.407564,1605,, '2 BR',120-128 N Orchard Street,6082553933,yes,no,no,no,yes,no,no,no,yes,yes,yes
+3123078,'https://d2cc5bro5bu049.cloudfront.net/77781/30427304/tile.jpg',43.078886,-89.379658,955,2400, 'Studio',Old Market Row,6082848483,yes,no,no,yes,yes,no,no,yes,no,no,no
+743402,'https://d2cc5bro5bu049.cloudfront.net/12326/17762891/tile.jpg',43.068681,-89.403806,750,, '1 BR',31 N Mills St,6087701197,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+762678,'https://d2cc5bro5bu049.cloudfront.net/19988/11282858/tile.jpg',43.069836,-89.391851,3000,, '7 BR',522 W Washington Ave,6084384366,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+1219,'https://d2cc5bro5bu049.cloudfront.net/292/15078130/tile.jpg',43.073898,-89.399002,2945,3400, '4 BR',Pres House Apartments,6084671097,no,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+1266789,'https://d2cc5bro5bu049.cloudfront.net/19538/17074013/tile.jpeg',43.072129,-89.391952,1449,, '3 BR',432 W. Dayton Street,6082797962,no,no,no,yes,yes,no,yes,yes,no,no,yes
+780004,'https://d2cc5bro5bu049.cloudfront.net/20531/24076059/tile.jpg',43.057237,-89.428787,1980,, '2 BR',701 Knickerbocker,6082334440,yes,no,no,no,no,no,no,no,no,no,yes
+1281989,'https://d2cc5bro5bu049.cloudfront.net/127/10885611/tile.jpg',43.078316,-89.383641,480,490, 'Studio',136 N Butler,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,no
+3169699,'https://d2cc5bro5bu049.cloudfront.net/84898/26209678/tile.jpg',43.074523,-89.443559,1100,, '2 BR',714 Hill St,6083521089,yes,no,no,no,no,yes,yes,yes,no,no,no
+780868,'https://d2cc5bro5bu049.cloudfront.net/20531/24076076/tile.jpg',43.070163,-89.414636,1200,, '2 BR',1615 Hoyt Street,6082334440,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+434,'https://d2cc5bro5bu049.cloudfront.net/145/1429043/tile.jpg',43.074360,-89.536999,1020,1695, 'Studio - 2 BR',Brownridge Terrace,6087298389,no,no,no,no,no,no,no,no,no,no,no
+1301401,'https://d2cc5bro5bu049.cloudfront.net/145/30325676/tile.jpg',43.082076,-89.541482,1320,2600, '1 - 3 BR',Brownpoint Reserve,6084670615,no,no,no,no,no,no,no,no,no,no,no
+905791,'https://d2cc5bro5bu049.cloudfront.net/145/7709515/tile.jpg',43.062116,-89.494921,1250,1580, '2 - 3 BR',Yorktown Townhomes,6087298526,no,no,no,no,no,no,no,no,no,no,no
+270,'https://d2cc5bro5bu049.cloudfront.net/145/1428393/tile.jpg',43.073399,-89.435303,1345,1795, '1 - 2 BR',Victory Court,6084674673,yes,no,no,no,no,no,no,no,no,no,yes
+260,'https://d2cc5bro5bu049.cloudfront.net/145/23403748/tile.jpg',43.071701,-89.429703,1620,, '2 BR',Kendall Duplex,6084104260,no,no,no,no,no,no,no,no,no,yes,yes
+197,'https://d2cc5bro5bu049.cloudfront.net/145/21580605/tile.jpg',43.073200,-89.418900,930,1035, '1 BR',Birge House Apartments,6084104229,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+402,'https://d2cc5bro5bu049.cloudfront.net/145/1450319/tile.jpg',43.073502,-89.435997,870,1005, '1 BR',Franklin Terrace,6084104239,yes,no,no,no,no,no,no,yes,no,no,yes
+254,'https://d2cc5bro5bu049.cloudfront.net/145/7056/tile.jpeg',43.071400,-89.427902,1550,1580, '2 BR',Kendall Row,6084104265,yes,no,no,no,no,no,no,no,no,yes,yes
+127,'https://d2cc5bro5bu049.cloudfront.net/145/6939/tile.jpeg',43.076000,-89.390099,525,1105, 'Studio - 2 BR',Grand Victorian ,6084104181,no,no,no,no,yes,no,yes,yes,no,no,yes
+3294220,'https://d2cc5bro5bu049.cloudfront.net/17160/27750036/tile.jpg',43.064428,-89.409680,2200,, '4 BR',1416 Chandler St.,6085721938,no,no,no,no,no,no,no,yes,no,yes,yes
+261,'https://d2cc5bro5bu049.cloudfront.net/145/1448689/tile.jpg',43.071701,-89.429901,1230,1380, '2 BR',Twin Gables,6084671911,no,no,no,no,no,no,no,no,no,no,yes
+264,'https://d2cc5bro5bu049.cloudfront.net/145/7064/tile.jpeg',43.071701,-89.431198,1475,, '2 BR',Kendall Townhouse,6084104270,yes,no,no,no,no,no,no,no,no,no,yes
+261,'https://d2cc5bro5bu049.cloudfront.net/145/1448689/tile.jpg',43.071701,-89.429901,1230,1380, '2 BR',Twin Gables,6084671911,no,no,no,no,no,no,no,no,no,no,yes
+136,'https://d2cc5bro5bu049.cloudfront.net/145/5449147/tile.jpg',43.067799,-89.409897,650,1600, 'Studio - 3 BR',The Regent,6087193504,yes,no,no,no,yes,no,no,yes,no,yes,yes
+70,'https://d2cc5bro5bu049.cloudfront.net/145/16501398/tile.jpg',43.076302,-89.389999,3095,, '5 BR',Wootton Mead,6084104209,no,no,no,no,yes,no,yes,yes,no,no,yes
+296,'https://d2cc5bro5bu049.cloudfront.net/145/1450025/tile.jpg',43.072102,-89.425400,1215,1420, '2 BR',Walnut Manor Apartments,6084674709,yes,no,no,no,yes,no,no,no,no,yes,yes
+192,'https://d2cc5bro5bu049.cloudfront.net/145/7002/tile.jpeg',43.064499,-89.417999,1035,2655, '1 - 4 BR',Monroe Manor Apartments,6082985310,yes,no,no,no,no,yes,yes,yes,no,yes,yes
+270,'https://d2cc5bro5bu049.cloudfront.net/145/1428393/tile.jpg',43.073399,-89.435303,1345,1795, '1 - 2 BR',Victory Court,6084674673,yes,no,no,no,no,no,no,no,no,no,yes
+457,'https://d2cc5bro5bu049.cloudfront.net/145/23668022/tile.jpg',43.075100,-89.530098,1015,1820, 'Studio - 2 BR',Brownstone On Old Sauk,6087097304,no,no,no,no,no,no,no,no,no,no,no
+249,'https://d2cc5bro5bu049.cloudfront.net/145/23407115/tile.jpg',43.072102,-89.425201,995,1215, '1 - 2 BR',Russell Terrace Apartments,6084671902,yes,no,no,no,yes,no,no,no,no,yes,yes
+744135,'https://d2cc5bro5bu049.cloudfront.net/18633/8967985/tile.jpg',43.065210,-89.415602,1269,, '2 BR',809 Grant St,6082550382,yes,no,no,no,no,no,yes,yes,no,yes,yes
+263,'https://d2cc5bro5bu049.cloudfront.net/145/23405781/tile.jpg',43.071701,-89.431000,800,900, 'Studio - 1 BR',Otto&#39;s House,6084671895,yes,no,no,no,no,no,no,no,no,no,yes
+35,'https://d2cc5bro5bu049.cloudfront.net/145/6854/tile.jpeg',43.075901,-89.388702,625,3200, 'Studio - 6 BR',110 West Johnson,6084104214,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+1838,'https://d2cc5bro5bu049.cloudfront.net/110/4706217/tile.jpg',43.071780,-89.393140,1275,2500, '1 BR',Park Place,6082569500,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+743180,'https://d2cc5bro5bu049.cloudfront.net/12168/30438231/tile.jpg',43.060198,-89.405606,1895,, '4 BR',1130 Erin St,6085777900,no,no,no,no,no,no,no,no,no,yes,yes
+828189,'https://d2cc5bro5bu049.cloudfront.net/110/25072664/tile.jpg',43.072091,-89.393600,995,1300, '1 - 3 BR',505 W. Johnson St.,6082569500,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+926884,'https://d2cc5bro5bu049.cloudfront.net/40428/7890084/tile.jpg',43.068126,-89.389204,1800,1900, '5 BR',517 W Doty Street,6083810846,yes,no,no,yes,yes,no,no,yes,no,no,yes
+790020,'https://d2cc5bro5bu049.cloudfront.net/20765/6999997/tile.jpg',43.069739,-89.415890,4250,, '4 BR',1714 Van Hise Ave,6083814804,no,no,no,no,yes,no,no,yes,yes,yes,yes
+2274811,'https://d2cc5bro5bu049.cloudfront.net/20216/19143032/tile.jpg',43.130077,-89.356647,705,850, 'Studio - 1 BR',Londonderry Lofts,6086619900,no,no,no,no,no,no,no,no,no,no,no
+2274973,'https://d2cc5bro5bu049.cloudfront.net/20216/19144578/tile.jpg',43.127481,-89.359480,800,890, '1 - 2 BR',Northshore Estates,6086619900,no,no,no,no,no,no,no,no,no,no,no
+1055083,'https://d2cc5bro5bu049.cloudfront.net/19941/8904137/tile.jpg',43.078232,-89.387347,1480,2040, '2 - 4 BR',20 E Gorham St,6087724356,yes,no,no,yes,yes,no,no,yes,no,no,yes
+1428802,'https://d2cc5bro5bu049.cloudfront.net/19664/16174858/tile.jpg',43.066748,-89.405454,0,, '6 BR',25 S Charter Street,6082560525,no,no,no,no,yes,no,no,no,no,yes,yes
+1239937,'https://d2cc5bro5bu049.cloudfront.net/19664/16226961/tile.jpg',43.069988,-89.390243,2200,, '4 BR',453 W. Washington Ave,6082162589,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+2067125,'https://d2cc5bro5bu049.cloudfront.net/52499/17581981/tile.jpg',43.090855,-89.485814,1230,1250, '2 BR',2020 Allen Blvd.,6087090202,yes,no,no,no,no,no,no,no,no,no,no
+3124184,'https://d2cc5bro5bu049.cloudfront.net/84218/25868283/tile.jpg',43.073121,-89.393605,650,, '3 BR',Aberdeen Apartments,6122755762,no,no,no,yes,yes,no,yes,yes,no,no,yes
+3145407,'https://d2cc5bro5bu049.cloudfront.net/84625/25976988/tile.jpg',43.067366,-89.387836,604,, '2 BR',507 W Wilson St,,no,no,no,yes,yes,no,no,yes,no,no,yes
+3154832,'https://d2cc5bro5bu049.cloudfront.net/84638/26033217/tile.jpg',43.060616,-89.404231,650,, '1 BR',608 S Mills St,6085152154,yes,no,no,no,no,no,no,no,no,no,yes
+3029732,'https://d2cc5bro5bu049.cloudfront.net/12302/26232833/tile.jpg',43.050942,-89.397525,820,, '1 BR',Shenandoah Apartments Llc,6082564747,no,no,no,no,no,no,yes,yes,no,no,no
+3175988,'https://d2cc5bro5bu049.cloudfront.net/85031/26291221/tile.jpeg',43.074775,-89.395538,700,, '4 BR',The Hub Madison,3103672498,yes,no,no,yes,yes,no,yes,yes,no,yes,yes
+3183286,'https://d2cc5bro5bu049.cloudfront.net/85169/26383066/tile.jpg',43.081047,-89.375892,1270,, '1 BR',10 N Livingston St Apt. 1017,7793007954,yes,no,no,yes,yes,yes,yes,yes,no,no,no
+3177348,'https://d2cc5bro5bu049.cloudfront.net/85058/26306424/tile.jpg',43.076607,-89.390366,600,700, '1 BR',123 W Gilman St,,no,no,no,no,yes,no,yes,yes,no,no,yes
+1715955,'https://d2cc5bro5bu049.cloudfront.net/66390/14570065/tile.jpg',43.118051,-89.373729,700,, '1 BR',300 Laurel Lane,6083351626,no,no,no,no,no,no,no,no,no,no,no
+3181686,'https://d2cc5bro5bu049.cloudfront.net/85134/26361256/tile.jpg',43.073052,-89.401230,1200,, '2 BR',(1st Month Half Off!) Large Two Bedroom On Eastside Available 3/1/19,,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes
+3201355,'https://d2cc5bro5bu049.cloudfront.net/85517/26600135/tile.jpg',43.062252,-89.489759,0,1082, '1 BR',302 Nautilus Dr,,no,no,no,no,no,no,no,no,no,no,no
+3201989,'https://d2cc5bro5bu049.cloudfront.net/85530/26605723/tile.jpg',43.055547,-89.430939,1495,, '2 BR',1200 Sf Newly Remodeled,4142548008,no,no,no,no,no,no,no,no,no,no,no
+1063126,'https://d2cc5bro5bu049.cloudfront.net/45906/21741091/tile.jpg',43.076935,-89.390207,1350,, '2 BR',The Elms,6082552234,no,no,no,no,yes,no,yes,yes,no,no,yes
+3217886,'https://d2cc5bro5bu049.cloudfront.net/19708/26817411/tile.jpg',43.065521,-89.408534,3550,, '7 BR',1328 Mound Street,6082155882,no,no,no,no,yes,no,no,no,no,yes,yes
+3220736,'https://d2cc5bro5bu049.cloudfront.net/15875/26848296/tile.jpg',43.070143,-89.393220,449,, '1 BR',538 W Mifflin St,6082414449,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+2428618,'https://d2cc5bro5bu049.cloudfront.net/76727/20168737/tile.jpg',43.084840,-89.377152,2650,, '5 BR',851 East Gorham,6085754163,yes,no,no,no,yes,no,yes,yes,no,no,no
+3231255,'https://d2cc5bro5bu049.cloudfront.net/86054/26987297/tile.jpeg',43.075931,-89.392392,0,915, '1 BR',214 W Gilman St,,no,no,no,no,yes,no,yes,yes,no,no,yes
+1295588,'https://d2cc5bro5bu049.cloudfront.net/57145/20529178/tile.jpg',43.073406,-89.396079,450,, '4 BR',606 University Ave,6082415790,yes,no,no,yes,yes,yes,yes,yes,no,yes,yes
+3176913,'https://d2cc5bro5bu049.cloudfront.net/85050/26301514/tile.jpg',43.065819,-89.403781,1499,, '2 BR',Vicinato Apartments,6087098009,yes,no,no,no,yes,no,no,no,no,yes,yes
+3169002,'https://d2cc5bro5bu049.cloudfront.net/84891/26200251/tile.jpg',43.068741,-89.389686,755,, '1 BR',Sunny One Bedroom Apartment,5405393385,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+3168867,'https://d2cc5bro5bu049.cloudfront.net/84887/26199394/tile.jpeg',43.071833,-89.426873,1400,1450, '3 BR',413 Chestnut St,6088433180,no,no,no,no,yes,no,no,no,no,yes,yes
+3255894,'https://d2cc5bro5bu049.cloudfront.net/86615/27307396/tile.jpg',43.076648,-89.393756,700,, '2 BR',229 W Lakelawn Pl,,no,no,no,no,yes,no,no,yes,no,no,yes
+3202935,'https://d2cc5bro5bu049.cloudfront.net/19529/26617770/tile.jpg',43.072565,-89.414192,490,, '1 BR',302 Breese Terrace,6082384166,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+3255126,'https://d2cc5bro5bu049.cloudfront.net/86596/27298327/tile.jpg',43.072563,-89.418591,1700,1800, '4 BR',1918 Kendall Avenue,6087704150,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+3256286,'https://d2cc5bro5bu049.cloudfront.net/86627/27417376/tile.png',43.068672,-89.391092,600,690, '1 BR',538 W Main St,6514856701,no,no,no,yes,yes,no,yes,yes,no,no,yes
+3177469,'https://d2cc5bro5bu049.cloudfront.net/85060/26307869/tile.jpg',43.067645,-89.390590,1700,, '3 BR',554 W Doty Street #1,6082997680,no,no,no,yes,yes,no,no,yes,no,no,yes
+3177365,'https://d2cc5bro5bu049.cloudfront.net/85060/26306449/tile.jpg',43.068223,-89.388669,3000,, '5 BR',208 S Bassett Street,6082997680,yes,no,no,yes,yes,no,no,yes,no,no,yes
+3177415,'https://d2cc5bro5bu049.cloudfront.net/85060/26307130/tile.jpg',43.068758,-89.389335,1600,, '4 BR',112 S Bassett Street #1,6082997680,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+3177416,'https://d2cc5bro5bu049.cloudfront.net/85060/26307133/tile.jpg',43.079136,-89.381631,2500,, '4 BR',122 N Franklin Street,6082997680,no,no,no,yes,yes,no,no,yes,no,no,no
+3283904,'https://d2cc5bro5bu049.cloudfront.net/87050/27612534/tile.png',43.078188,-89.387299,0,, 'Studio',20 E Gorham St,,yes,no,no,yes,yes,no,no,yes,no,no,yes
+3232884,'https://d2cc5bro5bu049.cloudfront.net/86104/27010389/tile.jpg',43.072681,-89.420751,3200,, '4 BR',2025 University Ave,6082192787,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+2278611,'https://d2cc5bro5bu049.cloudfront.net/15264/23255869/tile.jpg',43.078264,-89.383914,1600,1830, '3 - 4 BR',213 N. Hamilton Street,6082571000,yes,no,no,yes,yes,no,no,yes,no,no,no
+3297027,'https://d2cc5bro5bu049.cloudfront.net/87331/27790795/tile.jpg',43.073534,-89.393880,999,, 'Studio',The James,,no,no,no,yes,yes,no,yes,yes,no,no,yes
+3297758,'https://d2cc5bro5bu049.cloudfront.net/87354/27802583/tile.jpg',43.057071,-89.402505,810,875, '1 BR',1105 Haywood Dr,8147691664,no,no,no,no,no,no,no,yes,no,no,yes
+3131882,'https://d2cc5bro5bu049.cloudfront.net/12094/25879993/tile.png',43.069675,-89.416355,1695,3800, '3 - 8+ BR',1726 Van Hise,6087723640,no,no,no,no,yes,no,no,yes,yes,yes,yes
+740861,'https://d2cc5bro5bu049.cloudfront.net/20377/7695526/tile.jpg',43.078255,-89.382659,1150,, '2 BR',117 N Butler St,6082518888,no,no,yes,yes,yes,no,no,yes,no,no,no
+741068,'https://d2cc5bro5bu049.cloudfront.net/20377/10992779/tile.jpg',43.077115,-89.385081,1460,, '4 BR',203 N Pinckney St,6082518888,yes,no,yes,yes,yes,no,no,yes,no,no,no
+740965,'https://d2cc5bro5bu049.cloudfront.net/12992/20875172/tile.jpg',43.071214,-89.391862,1200,3000, '2 - 5 BR',454 W Mifflin St,6083474741,no,no,no,yes,yes,no,yes,yes,no,no,yes
+741030,'https://d2cc5bro5bu049.cloudfront.net/15875/6342385/tile.jpg',43.078011,-89.384836,685,, 'Studio',121 E Johnson St,6082414449,yes,no,yes,yes,yes,no,no,yes,no,no,no
+741336,'https://d2cc5bro5bu049.cloudfront.net/12231/6342531/tile.jpg',43.079691,-89.382561,1850,, '4 BR',409 E Johnson St,6082220365,no,no,no,yes,yes,no,no,yes,no,no,no
+741113,'https://d2cc5bro5bu049.cloudfront.net/18492/6342025/tile.jpg',43.079997,-89.385735,985,1325, '1 - 2 BR',151 E Gilman St,6082558633,no,no,no,yes,yes,no,no,yes,no,no,yes
+741261,'https://d2cc5bro5bu049.cloudfront.net/12231/6342503/tile.jpg',43.078686,-89.383228,1850,3700, '4 - 8+ BR',141 N Butler St,6082220365,yes,no,no,yes,yes,no,no,yes,no,no,no
+741135,'https://d2cc5bro5bu049.cloudfront.net/20377/10992782/tile.jpg',43.075682,-89.391681,2490,2990, '5 BR',211 W Gilman St,6082518888,yes,no,no,no,yes,no,yes,yes,no,no,yes
+741134,'https://d2cc5bro5bu049.cloudfront.net/18492/6342416/tile.jpg',43.076072,-89.396581,955,2075, '1 - 2 BR',Roundhouse,6082558633,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes
+741183,'https://d2cc5bro5bu049.cloudfront.net/15264/6342442/tile.jpg',43.070894,-89.390323,1800,, '3 BR',424 W. Washington Avenue,6082571000,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+741314,'https://d2cc5bro5bu049.cloudfront.net/15875/6342517/tile.jpg',43.070235,-89.388655,630,750, 'Studio',418 W Main St,6082414449,no,no,yes,yes,yes,no,yes,yes,no,no,yes
+741217,'https://d2cc5bro5bu049.cloudfront.net/15264/6342468/tile.jpg',43.071060,-89.390112,1130,, '2 BR',426 W. Washington Avenue,6082571000,yes,no,yes,yes,yes,yes,yes,yes,no,no,yes
+741343,'https://d2cc5bro5bu049.cloudfront.net/18492/6342025/tile.jpg',43.079293,-89.387643,0,, '4 BR',104 E Gilman St,6082558633,no,no,no,yes,yes,no,no,yes,no,no,yes
+741820,'https://d2cc5bro5bu049.cloudfront.net/20377/7695544/tile.jpg',43.077332,-89.384566,500,700, 'Studio - 1 BR',110 E Dayton St,6082518888,no,no,yes,yes,yes,no,no,yes,no,no,no
+741853,'https://d2cc5bro5bu049.cloudfront.net/18492/6342695/tile.jpg',43.079197,-89.384790,820,1985, '1 - 3 BR',316 N Butler St,6082558633,yes,no,no,yes,yes,no,no,yes,no,no,no
+741545,'https://d2cc5bro5bu049.cloudfront.net/12302/7008933/tile.jpg',43.051601,-89.397483,820,940, '1 - 2 BR',Shenandoah Apartments,6082564747,no,no,no,no,no,yes,yes,yes,no,no,no
+742471,'https://d2cc5bro5bu049.cloudfront.net/16972/6342892/tile.jpg',43.075952,-89.394200,6750,, '8+ BR',248 Langdon St,6086953937,no,no,no,no,yes,no,no,yes,no,no,yes
+742318,'https://d2cc5bro5bu049.cloudfront.net/18135/7744287/tile.jpg',43.074753,-89.394055,845,, '1 BR',525 State St.,6082730228,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+742887,'https://d2cc5bro5bu049.cloudfront.net/12231/6343020/tile.jpg',43.079624,-89.382298,775,, '1 BR',142 N Franklin St,6082220365,no,no,no,yes,yes,no,no,yes,no,no,no
+743277,'https://d2cc5bro5bu049.cloudfront.net/16972/6343143/tile.jpg',43.070363,-89.393731,2995,3195, '5 BR',123 N Bedford St,6086953937,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+742952,'https://d2cc5bro5bu049.cloudfront.net/12231/6343028/tile.jpg',43.079794,-89.385599,2300,, '4 BR',416 N Butler St,6082220365,no,no,no,yes,yes,no,no,yes,no,no,no
+743679,'https://d2cc5bro5bu049.cloudfront.net/20377/7695550/tile.jpg',43.077380,-89.385078,1385,1520, '3 - 4 BR',207 N Pinckney St,6082518888,yes,no,yes,yes,yes,no,no,yes,no,no,no
+744034,'https://d2cc5bro5bu049.cloudfront.net/15264/7006890/tile.jpg',43.083140,-89.363981,1545,, '3 BR',405 S. Few Street,6082571000,yes,no,no,no,no,no,no,no,no,no,no
+743904,'https://d2cc5bro5bu049.cloudfront.net/12358/6342126/tile.jpg',43.070507,-89.418259,400,600, '1 BR',Summit Avenue Coop,6082383441,no,no,no,no,yes,no,no,yes,yes,yes,yes
+743927,'https://d2cc5bro5bu049.cloudfront.net/15264/6343368/tile.jpg',43.077863,-89.380597,820,, '1 BR',9 N. Hancock Street,6082571000,no,no,yes,yes,yes,no,no,yes,no,no,no
+746292,'https://d2cc5bro5bu049.cloudfront.net/15264/6343723/tile.jpg',43.087072,-89.372064,1100,, '1 BR',1111 E. Johnson Street,6082571000,yes,no,no,no,no,no,no,yes,no,no,no
+746079,'https://d2cc5bro5bu049.cloudfront.net/15264/6342442/tile.jpg',43.071123,-89.390025,1800,, '3 BR',422 W. Washington Avenue,6082571000,yes,no,yes,yes,yes,yes,yes,yes,no,no,yes
+744213,'https://d2cc5bro5bu049.cloudfront.net/17785/20669105/tile.jpg',43.066882,-89.413136,500,, '1 BR',810 Oakland Ave,2623389749,yes,no,no,no,no,no,no,yes,no,yes,yes
+744391,'https://d2cc5bro5bu049.cloudfront.net/16972/17195495/tile.jpg',43.067372,-89.405987,1795,, '4 BR',14 S Charter St,6086953937,no,no,no,no,yes,no,no,no,no,yes,yes
+745026,'https://d2cc5bro5bu049.cloudfront.net/12231/6343589/tile.jpg',43.073219,-89.396385,995,2100, '1 - 4 BR',612 University Ave,6082220365,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes
+747395,'https://d2cc5bro5bu049.cloudfront.net/12231/17149396/tile.jpg',43.079818,-89.382379,1550,, '3 BR',415 E Johnson St,6082220365,no,no,no,yes,yes,no,no,yes,no,no,no
+746722,'https://d2cc5bro5bu049.cloudfront.net/15264/6343818/tile.jpg',43.077670,-89.380447,920,, '1 BR',404 E. Washington Avenue,6082571000,no,no,yes,yes,yes,no,no,yes,no,no,no
+749085,'https://d2cc5bro5bu049.cloudfront.net/15264/7008907/tile.jpg',43.079694,-89.385449,1130,, '1 BR',410 N. Butler Street,6082571000,no,no,no,yes,yes,no,no,yes,no,no,no
+748716,'https://d2cc5bro5bu049.cloudfront.net/15875/6344118/tile.jpg',43.073236,-89.421878,825,865, '1 BR',Bayview,6082414449,yes,no,no,yes,yes,no,no,no,no,yes,yes
+749452,'https://d2cc5bro5bu049.cloudfront.net/15264/6342753/tile.jpg',43.083235,-89.363999,1200,, '2 BR',1201 Williamson Street,6082571000,yes,no,no,no,no,no,no,no,no,no,no
+749232,'https://d2cc5bro5bu049.cloudfront.net/12231/6344245/tile.jpg',43.079718,-89.385708,1595,1750, '3 BR',149 E Gilman St,6082220365,no,no,no,yes,yes,no,no,yes,no,no,yes
+751159,'https://d2cc5bro5bu049.cloudfront.net/18102/6342263/tile.jpg',43.071650,-89.386590,1475,2800, '2 BR',306 West,6082790174,no,no,no,yes,yes,no,yes,yes,no,no,yes
+751423,'https://d2cc5bro5bu049.cloudfront.net/15875/6344968/tile.jpg',43.092785,-89.357844,1225,, '2 BR',1937 E Washington Ave,6082414449,no,no,no,yes,yes,no,no,no,no,no,no
+760485,'https://d2cc5bro5bu049.cloudfront.net/18135/7676596/tile.jpg',43.075142,-89.397122,680,870, 'Studio - 1 BR',509 Company Apartments At 509 N Lake St,6082574615,yes,no,no,yes,yes,no,yes,yes,no,yes,yes
+760546,'https://d2cc5bro5bu049.cloudfront.net/19850/13696170/tile.jpg',43.062696,-89.487087,640,852, 'Studio - 2 BR',Parkwood Arms Apartments,6082313467,yes,no,no,no,no,no,no,no,no,no,no
+760551,'https://d2cc5bro5bu049.cloudfront.net/19664/10315390/tile.jpg',43.069793,-89.390502,4650,, '8+ BR',501 W Washington Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+760448,'https://d2cc5bro5bu049.cloudfront.net/19664/10328806/tile.jpg',43.066872,-89.409406,0,, '6 BR',1504 Adams Street,6082560525,yes,no,no,no,yes,no,no,yes,no,yes,yes
+760446,'https://d2cc5bro5bu049.cloudfront.net/19664/16175436/tile.jpg',43.066530,-89.407500,0,, '6 BR',22 S Orchard St,6082560525,no,no,no,no,yes,no,no,no,no,yes,yes
+760691,'https://d2cc5bro5bu049.cloudfront.net/19664/10318686/tile.jpg',43.066911,-89.411094,0,, '5 BR',1532 Jefferson St,6082560525,no,no,no,no,no,no,no,yes,no,yes,yes
+760690,'https://d2cc5bro5bu049.cloudfront.net/19664/16174767/tile.jpg',43.069626,-89.390372,3300,, '6 BR',10 S Bassett St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+760665,'https://d2cc5bro5bu049.cloudfront.net/19664/10361047/tile.jpg',43.069554,-89.390277,3400,, '6 BR',14 S Bassett St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+760708,'https://d2cc5bro5bu049.cloudfront.net/19664/10377301/tile.jpg',43.069598,-89.390580,3400,, '6 BR',509 W Washington Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+760752,'https://d2cc5bro5bu049.cloudfront.net/19941/6416827/tile.jpg',43.077900,-89.387823,450,, 'Studio',407 Wisconsin Avenue,6087724356,yes,no,no,yes,yes,no,no,yes,no,no,yes
+760853,'https://d2cc5bro5bu049.cloudfront.net/19664/19787611/tile.png',43.070495,-89.388168,745,, '1 BR',30 S Broom St,6082560525,no,no,yes,yes,yes,no,yes,yes,no,no,yes
+760997,'https://d2cc5bro5bu049.cloudfront.net/20012/9003369/tile.jpg',43.071173,-89.384806,680,, 'Studio',203 S Henry St,6088862555,yes,no,no,yes,yes,no,no,yes,no,no,no
+761852,'https://d2cc5bro5bu049.cloudfront.net/19906/16877225/tile.jpg',43.065878,-89.404810,800,, '3 BR',1112 St. James Ct,6084446120,yes,no,no,no,yes,no,no,no,no,yes,yes
+762372,'https://d2cc5bro5bu049.cloudfront.net/19572/6418815/tile.jpg',43.060264,-89.404319,960,, '2 BR',616-618 S Mills St,6088488905,yes,no,no,no,no,no,no,no,no,no,yes
+762290,'https://d2cc5bro5bu049.cloudfront.net/19639/17376174/tile.jpg',43.097704,-89.365851,1100,, '2 BR',Lakewood Gardens,6082415777,no,no,no,no,yes,no,no,no,no,no,no
+763524,'https://d2cc5bro5bu049.cloudfront.net/19543/6621643/tile.jpg',43.076282,-89.394392,1150,1225, '2 BR',612 Howard Pl,6082556550,no,no,no,no,yes,no,no,yes,no,no,yes
+763314,'https://d2cc5bro5bu049.cloudfront.net/19564/23375042/tile.jpeg',43.072812,-89.414235,1995,, '3 BR',310 North Breese Terrace,6082355931,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+762920,'https://d2cc5bro5bu049.cloudfront.net/20377/12515864/tile.jpg',43.077531,-89.385277,670,720, '1 BR',215 N Pinckney St,6082518888,yes,no,yes,yes,yes,no,no,yes,no,no,no
+764107,'https://d2cc5bro5bu049.cloudfront.net/19681/6564400/tile.jpg',43.076045,-89.388504,587,700, '1 - 5 BR',304 N Carroll St.,6086988784,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+763280,'https://d2cc5bro5bu049.cloudfront.net/20033/18487789/tile.jpg',43.070351,-89.392004,1530,, '3 BR',515-517 W Mifflin St,6082568391,no,no,no,yes,yes,no,yes,yes,no,no,yes
+763366,'https://d2cc5bro5bu049.cloudfront.net/19664/6419679/tile.jpg',43.069879,-89.389845,3900,, '8+ BR',11 S Bassett St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+763754,'https://d2cc5bro5bu049.cloudfront.net/19767/24644630/tile.jpg',43.060375,-89.400039,1495,, '3 BR',620 West Shore Dr,6083478247,yes,no,no,no,no,no,no,no,no,no,yes
+764923,'https://d2cc5bro5bu049.cloudfront.net/19554/6419166/tile.jpg',43.070701,-89.384934,1250,1350, '3 BR',212 S Henry St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,no
+764349,'https://d2cc5bro5bu049.cloudfront.net/19664/10377318/tile.jpg',43.070049,-89.390159,3000,, '5 BR',451 W Washington Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+764088,'https://d2cc5bro5bu049.cloudfront.net/19664/10377307/tile.jpg',43.070096,-89.390052,2950,, '5 BR',447 W Washington Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+764639,'https://d2cc5bro5bu049.cloudfront.net/19889/17432970/tile.jpg',43.067311,-89.388055,895,1325, '1 - 2 BR',515 W Wilson St,6082848483,no,no,no,yes,yes,no,no,yes,no,no,yes
+765997,'https://d2cc5bro5bu049.cloudfront.net/19535/10993428/tile.jpg',43.065522,-89.408094,1425,, '3 BR',Steven J. Apartments,6082195345,no,no,no,no,yes,no,no,no,no,yes,yes
+766889,'https://d2cc5bro5bu049.cloudfront.net/19572/6417962/tile.jpg',43.063446,-89.406365,1215,1450, '2 - 3 BR',1212 Vilas Ave,6088488905,no,no,no,no,no,no,no,no,no,yes,yes
+766770,'https://d2cc5bro5bu049.cloudfront.net/19664/16204299/tile.jpg',43.069988,-89.390243,2200,, '4 BR',453 W Washington Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+767443,'https://d2cc5bro5bu049.cloudfront.net/19664/6417920/tile.jpg',43.066214,-89.404935,0,, '6 BR',101 Milton Ct,6082560525,no,no,no,no,yes,no,no,no,no,yes,yes
+766932,'https://d2cc5bro5bu049.cloudfront.net/19535/10993435/tile.jpg',43.065522,-89.408094,950,, '2 BR',Steven J. Apartments,6082195345,no,no,no,no,yes,no,no,no,no,yes,yes
+767363,'https://d2cc5bro5bu049.cloudfront.net/19535/10993437/tile.jpg',43.071457,-89.401412,1350,, '3 BR',Steven J. Apartments,6082195345,yes,yes,yes,yes,yes,no,yes,yes,no,yes,yes
+767017,'https://d2cc5bro5bu049.cloudfront.net/19664/16226833/tile.jpg',43.070602,-89.388310,3700,, '7 BR',22 S Broom St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+768014,'https://d2cc5bro5bu049.cloudfront.net/20377/7695557/tile.jpg',43.068633,-89.388383,765,1350, 'Studio - 2 BR',201 S Bassett St,6082518888,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+2888628,'https://d2cc5bro5bu049.cloudfront.net/15875/23567017/tile.jpg',43.074011,-89.465872,895,, '2 BR',Blackhawk Apartments,6082414449,no,no,no,yes,yes,no,no,no,no,no,no
+840704,'https://d2cc5bro5bu049.cloudfront.net/15875/7183281/tile.jpg',43.071088,-89.394857,1700,, '3 BR',202 Marion St,6082414449,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+3221325,'https://d2cc5bro5bu049.cloudfront.net/15875/26854561/tile.jpg',43.077460,-89.385930,895,1195, '1 - 2 BR',222 N Pinckney St,6082414449,yes,no,yes,yes,yes,no,no,yes,no,no,yes
+765699,'https://d2cc5bro5bu049.cloudfront.net/19637/20942406/tile.jpg',43.079135,-89.383211,2300,, '4 BR',317 E Johnson St,6082511960,yes,no,no,yes,yes,no,no,yes,no,no,no
+3185012,'https://d2cc5bro5bu049.cloudfront.net/85198/27047004/tile.jpg',43.073206,-89.465733,1030,, '2 BR',Chapel Hill Apartments-$1030 Cash On Signing Sublease,6086285342,no,no,no,yes,yes,no,no,no,no,no,no
+744037,'https://d2cc5bro5bu049.cloudfront.net/15264/7006900/tile.jpg',43.077901,-89.385824,990,1710, '1 - 3 BR',301 N. Pinckney Street,6082571000,yes,no,no,yes,yes,no,no,yes,no,no,yes
+1170501,'https://d2cc5bro5bu049.cloudfront.net/51654/17008275/tile.jpg',43.073670,-89.393343,599,1599, 'Studio - 4 BR',The James,6085358111,no,no,no,no,yes,no,yes,yes,no,no,yes
+3297400,'https://d2cc5bro5bu049.cloudfront.net/12094/27795895/tile.jpg',43.061099,-89.404276,2200,, '4 BR',522 Mills Llc,6087723640,no,no,no,no,no,no,no,no,no,yes,yes
+3333180,'https://d2cc5bro5bu049.cloudfront.net/87917/28233275/tile.jpg',43.039791,-89.451535,760,, '2 BR',1206 S Midvale Blvd,,yes,no,no,no,yes,no,no,no,no,no,no
+747873,'https://d2cc5bro5bu049.cloudfront.net/16096/7002167/tile.jpg',43.067677,-89.389478,1195,, '3 BR',533 W Doty St,6082121227,no,no,no,yes,yes,no,no,yes,no,no,yes
+766046,'https://d2cc5bro5bu049.cloudfront.net/19664/6418691/tile.jpg',43.069738,-89.389494,650,, '1 BR',444 W Main St,6082560525,no,no,yes,yes,yes,no,yes,yes,no,no,yes
+3237037,'https://d2cc5bro5bu049.cloudfront.net/86180/28202643/tile.png',43.077310,-89.393516,1300,3250, '2 - 5 BR',626 North Henry Street,9207237217,no,no,no,no,yes,no,no,yes,no,no,yes
+764528,'https://d2cc5bro5bu049.cloudfront.net/19513/8646139/tile.jpg',43.063647,-89.416760,1400,, '2 BR',1903 Madison St,6084388440,no,no,no,no,no,yes,yes,yes,no,yes,yes
+1447569,'https://d2cc5bro5bu049.cloudfront.net/61101/12070627/tile.jpg',43.063567,-89.405785,1275,, '1 BR',316 S Charter St,6087705172,no,no,no,no,no,no,no,no,no,yes,yes
+3342782,'https://d2cc5bro5bu049.cloudfront.net/16364/28357600/tile.jpg',43.064412,-89.406684,2675,, '5 BR',1224 Chandler Street,6082205493,no,no,no,no,yes,no,no,no,no,yes,yes
+741637,'https://d2cc5bro5bu049.cloudfront.net/16364/27923624/tile.jpg',43.073803,-89.418074,840,, '1 BR',1904 Birge Ter,6082205493,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes
+761012,'https://d2cc5bro5bu049.cloudfront.net/20033/6417134/tile.jpg',43.078573,-89.379371,880,, '3 BR',516 E Washington Ave,6082568391,yes,no,no,yes,yes,no,no,yes,no,no,no
+3306737,'https://d2cc5bro5bu049.cloudfront.net/16364/27922806/tile.jpeg',43.073798,-89.418074,1275,, '2 BR',1904 Birge Terrace,6082205493,yes,yes,no,yes,yes,no,no,yes,yes,yes,yes
+3137688,'https://d2cc5bro5bu049.cloudfront.net/16364/25876415/tile.jpg',43.065973,-89.407905,2200,, '5 BR',1314 St. James Court,6082205493,no,no,no,no,yes,no,no,no,no,yes,yes
+743073,'https://d2cc5bro5bu049.cloudfront.net/15264/6994005/tile.jpg',43.064025,-89.414155,1040,, '1 BR',1005 Grant Street,6082571000,no,no,no,no,no,no,yes,yes,no,yes,yes
+741011,'https://d2cc5bro5bu049.cloudfront.net/15264/6984715/tile.jpg',43.071149,-89.389764,1695,, '3 BR',418 W. Washington Avenue,6082571000,yes,no,yes,yes,yes,yes,yes,yes,no,no,yes
+741639,'https://d2cc5bro5bu049.cloudfront.net/12367/9058745/tile.jpg',43.070909,-89.407528,725,, '1 BR',136 N Orchard St,6082413906,yes,no,no,no,yes,no,no,no,yes,yes,yes
+744653,'https://d2cc5bro5bu049.cloudfront.net/18156/24852375/tile.jpg',43.058482,-89.440538,2000,, '4 BR',3902 Birch Ave,6084439820,no,no,no,no,no,no,no,no,no,no,no
+745679,'https://d2cc5bro5bu049.cloudfront.net/14019/21449483/tile.jpg',43.084863,-89.474841,450,, '1 BR',5509 Greening Ln,6084438937,no,no,no,no,no,no,no,no,no,no,no
+745903,'https://d2cc5bro5bu049.cloudfront.net/16972/6343100/tile.jpg',43.087615,-89.371311,795,1295, '1 - 3 BR',1135 E Johnson St Apt A-c,6086953937,no,no,no,no,no,no,no,yes,no,no,no
+742229,'https://d2cc5bro5bu049.cloudfront.net/14552/26390970/tile.jpeg',43.069816,-89.415274,3300,, '5 BR',106 Lathrop St.,6082253992,no,no,no,no,yes,no,no,yes,yes,yes,yes
+760858,'https://d2cc5bro5bu049.cloudfront.net/19690/7047976/tile.jpg',43.076935,-89.390207,1000,1350, '2 BR',The Elms,6082552234,no,no,no,no,yes,no,yes,yes,no,no,yes
+760664,'https://d2cc5bro5bu049.cloudfront.net/19664/26033143/tile.png',43.069477,-89.390176,450,2700, '5 - 6 BR',18 S Bassett St,6084806354,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+761839,'https://d2cc5bro5bu049.cloudfront.net/19639/17376220/tile.jpg',43.072388,-89.422622,850,1350, 'Studio - 2 BR',University Gables,6082415777,yes,no,no,no,yes,no,no,yes,no,yes,yes
+766038,'https://d2cc5bro5bu049.cloudfront.net/19498/6418697/tile.jpg',43.079502,-89.382833,1675,, '3 BR',401 E Johnson St,6085757744,no,no,no,yes,yes,no,no,yes,no,no,no
+766440,'https://d2cc5bro5bu049.cloudfront.net/19681/24549867/tile.jpg',43.069744,-89.416244,600,, '3 BR',1718 Van Hise Ave,6086988784,no,no,no,no,yes,no,no,yes,yes,yes,yes
+767690,'https://d2cc5bro5bu049.cloudfront.net/19664/25319486/tile.jpg',43.067145,-89.409228,3600,, '6 BR',14 S Randall Ave,6082560525,yes,no,no,no,yes,no,no,yes,no,yes,yes
+763316,'https://d2cc5bro5bu049.cloudfront.net/19629/28372354/tile.jpg',43.072854,-89.436627,1195,1295, '2 BR',510 N Franklin Ave,6087729411,no,no,no,no,no,no,no,yes,no,no,yes
+765490,'https://d2cc5bro5bu049.cloudfront.net/19798/24726363/tile.jpg',43.068563,-89.387510,1188,, '2 BR',Jacobsen Shoff Apartments,6082381507,yes,no,no,yes,yes,no,no,yes,no,no,yes
+1878441,'https://d2cc5bro5bu049.cloudfront.net/68034/15958652/tile.jpeg',43.042460,-89.473143,900,, '1 BR',1105 Gilbert Rd,6082172470,no,no,no,no,yes,no,no,yes,no,no,no
+3225042,'https://d2cc5bro5bu049.cloudfront.net/77781/27420542/tile.jpeg',43.068872,-89.403799,2850,2950, '5 BR',35 North Mills St.,6082429111,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+760594,'https://d2cc5bro5bu049.cloudfront.net/20175/6598575/tile.jpg',43.080303,-89.467489,995,, '2 BR',5109 Lake Mendota Dr,,no,no,no,no,yes,no,no,no,no,no,no
+741254,'https://d2cc5bro5bu049.cloudfront.net/12433/12349718/tile.jpg',43.068688,-89.387334,944,1160, '1 - 2 BR',432 W Wilson St,6085711474,yes,no,no,yes,yes,no,no,yes,no,no,yes
+1281981,'https://d2cc5bro5bu049.cloudfront.net/19872/17341283/tile.jpg',43.071230,-89.414111,1900,, '3 BR',142 N. Breese Terrace,6083479629,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+1413024,'https://d2cc5bro5bu049.cloudfront.net/19498/11798742/tile.jpg',43.078037,-89.383314,1750,1850, '3 - 4 BR',126 North Butler Street,6085757744,yes,no,no,yes,yes,no,no,yes,no,no,no
+1878427,'https://d2cc5bro5bu049.cloudfront.net/19664/25886472/tile.jpg',43.070801,-89.388544,2750,, '5 BR',16 S Broom Street,6088889814,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+2232061,'https://d2cc5bro5bu049.cloudfront.net/74440/22895381/tile.jpeg',43.062338,-89.491948,1250,, '2 BR',301 S Yellowstone Dr,2624422464,no,no,no,no,no,no,no,no,no,no,no
+2418547,'https://d2cc5bro5bu049.cloudfront.net/76727/20179176/tile.jpg',43.078501,-89.383941,2275,, '4 BR',217 N Hamilton St,6085754163,yes,no,no,yes,yes,no,no,yes,no,no,no
+1510902,'https://d2cc5bro5bu049.cloudfront.net/19650/12634575/tile.jpg',43.072107,-89.428890,1750,, '2 BR',2505 University Avenue,6087121036,yes,no,no,no,no,no,no,no,no,yes,yes
+3360402,'https://d2cc5bro5bu049.cloudfront.net/14615/28554518/tile.jpg',43.082266,-89.447050,1575,, '3 BR',3405 Viburnum Ave.,6086589049,no,no,no,no,no,no,no,yes,no,no,no
+742725,'https://d2cc5bro5bu049.cloudfront.net/12168/28602621/tile.png',43.059895,-89.405679,990,, '2 BR',1132 Erin St,6085777900,no,no,no,no,no,no,no,no,no,no,yes
+750139,'https://d2cc5bro5bu049.cloudfront.net/18135/7725398/tile.jpg',43.058012,-89.427456,1125,, '2 BR',2509 Monroe St,6082730228,yes,no,no,no,no,no,no,no,no,no,yes
+1285646,'https://d2cc5bro5bu049.cloudfront.net/127/10927802/tile.jpg',43.074872,-89.394360,870,1615, 'Studio - 2 BR',536 State St,6082553933,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+741279,'https://d2cc5bro5bu049.cloudfront.net/18492/6342494/tile.jpg',43.076434,-89.393872,705,915, 'Studio - 1 BR',228 Langdon St,6082558633,no,no,no,no,yes,no,no,yes,no,no,yes
+741281,'https://d2cc5bro5bu049.cloudfront.net/18492/6342510/tile.jpg',43.076884,-89.396684,1220,, '2 BR',616 Mendota Ct,6082558633,no,no,no,yes,yes,no,yes,yes,no,yes,yes
+741250,'https://d2cc5bro5bu049.cloudfront.net/18492/6342494/tile.jpg',43.103219,-89.345487,1130,1135, '2 BR',230 Lake Lawn Pl,6082558633,yes,no,no,no,no,no,no,no,no,no,no
+740980,'https://d2cc5bro5bu049.cloudfront.net/18492/10951706/tile.jpg',43.076892,-89.389791,740,1565, 'Studio - 2 BR',416 N Carroll St,6082558633,yes,no,no,no,yes,no,yes,yes,no,no,yes
+741752,'https://d2cc5bro5bu049.cloudfront.net/18492/6342681/tile.jpg',43.081528,-89.380122,730,1035, 'Studio - 2 BR',643 E Johnson St,6082558633,yes,no,no,no,yes,no,no,yes,no,no,no
+3359655,'https://d2cc5bro5bu049.cloudfront.net/88401/28545362/tile.jpg',43.000749,-89.480562,900,, '3 BR',6287 Stone Gate Drive,3022995962,no,no,no,no,no,no,no,no,no,no,no
+1983704,'https://d2cc5bro5bu049.cloudfront.net/19684/16877534/tile.jpg',43.076136,-89.388801,2200,2750, '4 - 5 BR',312 N. Carroll,6083342010,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+2073158,'https://d2cc5bro5bu049.cloudfront.net/19684/17741867/tile.jpg',43.070361,-89.392957,1875,, '3 BR',532 W. Mifflin,6083342010,no,no,no,yes,yes,no,yes,yes,no,no,yes
+3361392,'https://d2cc5bro5bu049.cloudfront.net/88438/28569486/tile.jpg',43.067366,-89.387836,990,, '1 BR',507 W Wilson St Rm 301,,no,no,no,yes,yes,no,no,yes,no,no,yes
+760806,'https://d2cc5bro5bu049.cloudfront.net/19921/26470918/tile.jpg',43.074129,-89.511855,1070,, '2 BR',Heathercrest Apartments,6088367950,no,no,no,no,no,no,no,no,no,no,no
+743509,'https://d2cc5bro5bu049.cloudfront.net/15264/6343221/tile.jpg',43.071539,-89.395495,700,900, 'Studio - 1 BR',Courtside Apartments,6082571000,yes,no,no,yes,yes,no,yes,yes,no,yes,yes
+745162,'https://d2cc5bro5bu049.cloudfront.net/15264/6343616/tile.jpg',43.078811,-89.382631,740,, 'Studio',130 N. Hancock Street,6082571000,no,no,no,yes,yes,no,no,yes,no,no,no
+743833,'https://d2cc5bro5bu049.cloudfront.net/15264/6343329/tile.jpg',43.076267,-89.379250,785,, 'Studio',106 S. Hancock Street,6082571000,no,no,no,yes,yes,no,no,yes,no,no,no
+2496622,'https://d2cc5bro5bu049.cloudfront.net/17785/20667503/tile.jpg',43.068850,-89.414526,1895,2295, '3 - 4 BR',1618/1620 Chadbourne Ave,4146879184,no,no,no,no,no,no,no,yes,yes,yes,yes
+3370211,'https://d2cc5bro5bu049.cloudfront.net/88599/28689922/tile.jpeg',43.077254,-89.393682,500,, '4 BR',210 Lakelawn Place,,no,no,no,no,yes,no,no,yes,no,no,yes
+3370785,'https://d2cc5bro5bu049.cloudfront.net/15875/28698266/tile.jpg',43.066899,-89.404248,1500,2000, '3 - 4 BR',24/26 S Mills St,6082414449,yes,no,no,no,yes,no,no,yes,no,yes,yes
+3370784,'https://d2cc5bro5bu049.cloudfront.net/15875/28698146/tile.jpg',43.066027,-89.409320,2895,, '5 BR',114 S. Randall Ave,6082414449,no,no,no,no,no,no,no,yes,no,yes,yes
+748770,'https://d2cc5bro5bu049.cloudfront.net/15875/27765888/tile.jpg',43.084671,-89.378190,1675,, '4 BR',403 Washburn Pl,6082414449,no,no,no,no,yes,no,yes,yes,no,no,no
+3360557,'https://d2cc5bro5bu049.cloudfront.net/88422/28558501/tile.jpg',43.063306,-89.402905,1575,, '3 BR',1010 Vilas Ave,6086287780,no,no,no,no,no,no,no,no,no,yes,yes
+3221442,'https://d2cc5bro5bu049.cloudfront.net/15875/26856220/tile.jpg',43.069687,-89.385915,1500,, '3 BR',348 W Wilson St,6082414449,yes,no,no,yes,yes,no,no,yes,no,no,no
+3372342,'https://d2cc5bro5bu049.cloudfront.net/88629/28715678/tile.jpeg',43.075476,-89.436736,2350,, '2 BR',2820 Marshall Ct,6082331616,no,no,no,no,no,no,no,yes,no,no,yes
+745070,'https://d2cc5bro5bu049.cloudfront.net/15264/7006936/tile.jpg',43.076448,-89.391155,1950,, '3 BR',139 W. Gilman Street,6082571000,no,no,no,no,yes,no,yes,yes,no,no,yes
+1263961,'https://d2cc5bro5bu049.cloudfront.net/127/10697272/tile.jpg',43.070688,-89.408010,1705,, '2 BR',1309-1311 W Dayton,6082553933,no,no,no,no,yes,no,no,no,yes,yes,yes
+741144,'https://d2cc5bro5bu049.cloudfront.net/15264/6342417/tile.jpg',43.070874,-89.390378,1990,, '4 BR',436 W. Washington Avenue,6082571000,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+762489,'https://d2cc5bro5bu049.cloudfront.net/19664/6420199/tile.jpg',43.069658,-89.389729,3650,, '6 BR',21/23 S Bassett St,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+745861,'https://d2cc5bro5bu049.cloudfront.net/15264/6343687/tile.jpg',43.077820,-89.380323,975,, '1 BR',410 E. Washington Avenue,6082571000,no,no,yes,yes,yes,no,no,yes,no,no,no
+760566,'https://d2cc5bro5bu049.cloudfront.net/19875/28782288/tile.jpg',43.070232,-89.445005,1310,, '3 BR',313-315 Eugenia Ave.,6088319420,no,no,no,no,no,no,no,yes,no,no,no
+767530,'https://d2cc5bro5bu049.cloudfront.net/19655/12345189/tile.jpg',43.068168,-89.388518,2750,, '5 BR',210 S Bassett St,6085772401,yes,no,no,yes,yes,no,no,yes,no,no,yes
+1283945,'https://d2cc5bro5bu049.cloudfront.net/127/10907729/tile.jpg',43.078032,-89.383795,2530,, '5 BR',207 N Hamilton Street,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,no
+1283939,'https://d2cc5bro5bu049.cloudfront.net/127/10907729/tile.jpg',43.077945,-89.383912,1390,, '2 BR',205 N Hamilton,6084415625,yes,no,yes,yes,yes,no,no,yes,no,no,no
+1263770,'https://d2cc5bro5bu049.cloudfront.net/127/10694734/tile.jpg',43.078773,-89.385672,2185,, '4 BR',125 E Gorham,6084415625,no,no,no,yes,yes,no,no,yes,no,no,yes
+1285391,'https://d2cc5bro5bu049.cloudfront.net/127/10922599/tile.jpg',43.078199,-89.384058,1690,, '3 BR',211 N Hamilton,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,no
+1663861,'https://d2cc5bro5bu049.cloudfront.net/12168/28770323/tile.png',43.098675,-89.365883,1200,, '2 BR',1917 Sherman Ave.,6085777900,no,no,no,no,yes,no,no,no,no,no,no
+1262146,'https://d2cc5bro5bu049.cloudfront.net/127/10659883/tile.jpg',43.078458,-89.385953,1840,, '4 BR',111 E Gorham,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,yes
+1263769,'https://d2cc5bro5bu049.cloudfront.net/127/10679946/tile.jpg',43.078626,-89.385715,1020,, '1 BR',123 E Gorham,6084415625,no,no,no,yes,yes,no,no,yes,no,no,yes
+1273839,'https://d2cc5bro5bu049.cloudfront.net/127/10697345/tile.jpg',43.078253,-89.383574,1750,2250, '3 - 4 BR',134 N Butler,6084415625,yes,no,no,yes,yes,no,no,yes,no,no,no
+767809,'https://d2cc5bro5bu049.cloudfront.net/19875/28782278/tile.jpg',43.070045,-89.445095,0,, '2 BR',311 Eugenia Ave,6088319420,no,no,no,no,no,no,no,yes,no,no,no
+743701,'https://d2cc5bro5bu049.cloudfront.net/12231/6342304/tile.jpg',43.070540,-89.384298,1490,2500, '3 - 5 BR',314 S Hamilton St,6082220365,yes,no,no,yes,yes,no,no,yes,no,no,no
+3391660,'https://d2cc5bro5bu049.cloudfront.net/88998/30369001/tile.jpg',43.079848,-89.388316,665,, 'Studio',529 N Pinckney St,,no,no,no,no,yes,no,no,yes,no,no,yes
+1184,'https://d2cc5bro5bu049.cloudfront.net/292/12011/tile.jpg',43.068001,-89.401398,0,, '1 - 5 BR',Park Regent Apartments,6082162251,yes,no,no,no,yes,no,no,yes,no,yes,yes
+3313145,'https://d2cc5bro5bu049.cloudfront.net/87580/27967220/tile.jpg',43.080742,-89.362092,1700,, '2 BR',1139 Rutledge St,6127186755,no,no,no,no,no,no,no,no,no,no,no
+3379788,'https://d2cc5bro5bu049.cloudfront.net/88790/28959863/tile.jpg',43.031707,-89.420373,1950,, '3 BR',2508 Greenway View,6082989241,no,no,no,yes,yes,no,no,no,no,no,no
+766406,'https://d2cc5bro5bu049.cloudfront.net/19703/7072620/tile.jpg',43.083661,-89.478611,1150,, '2 BR',Ascot Arms,6085750174,yes,no,no,no,no,no,no,no,no,no,no
+2073163,'https://d2cc5bro5bu049.cloudfront.net/70624/30353580/tile.jpg',43.076755,-89.396576,0,, '1 BR',Fabulous Summer Lakefront One Bedroom Apartment Near Terrace &amp; Memorial Union,6468950697,no,no,no,yes,yes,no,yes,yes,no,yes,yes
+741873,'https://d2cc5bro5bu049.cloudfront.net/70639/20162380/tile.jpg',43.072662,-89.420407,925,1195, '1 - 2 BR',2019 University Ave,6086303222,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+743110,'https://d2cc5bro5bu049.cloudfront.net/12773/6343078/tile.jpg',43.072325,-89.420165,1495,, '3 BR',2014 Kendall Ave,6086303222,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+3391940,'https://d2cc5bro5bu049.cloudfront.net/89004/30372580/tile.jpg',43.072883,-89.456528,1500,, '2 BR',Venture - Luxury,,yes,no,no,no,no,no,yes,yes,no,no,no
+763229,'https://d2cc5bro5bu049.cloudfront.net/19792/25368933/tile.jpg',43.084898,-89.376785,910,, '1 BR',330 Norris Court,6082510113,yes,no,no,no,yes,no,yes,yes,no,no,no
+1296602,'https://d2cc5bro5bu049.cloudfront.net/110/25890965/tile.jpg',43.072032,-89.390234,1850,, '3 BR',403 W. Mifflin St.,6082569500,no,no,yes,yes,yes,yes,yes,yes,no,no,yes
+234,'https://d2cc5bro5bu049.cloudfront.net/162/7038/tile.jpeg',43.064499,-89.404404,1295,, '2 BR',216 S Mills St,6082518777,yes,no,no,no,yes,no,no,no,no,yes,yes
+11,'https://d2cc5bro5bu049.cloudfront.net/162/6831/tile.jpeg',43.086399,-89.374001,1645,, '5 BR',1020 E Johnson St,6082518777,no,no,no,no,no,no,no,yes,no,no,no
+350,'https://d2cc5bro5bu049.cloudfront.net/162/17850867/tile.jpg',43.073799,-89.393303,975,1800, 'Studio - 3 BR',420 West,6085120735,no,no,no,no,yes,no,yes,yes,no,no,yes
+258,'https://d2cc5bro5bu049.cloudfront.net/162/3077089/tile.jpeg',43.078098,-89.386803,785,, '1 BR',25 E Gorham St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,yes
+401,'https://d2cc5bro5bu049.cloudfront.net/162/3066973/tile.jpeg',43.068100,-89.389397,895,, '1 BR',520 W Doty St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,yes
+190,'https://d2cc5bro5bu049.cloudfront.net/162/7000/tile.jpeg',43.064400,-89.416603,1495,, '3 BR',1818 Madison St,6082518777,no,no,no,no,no,yes,yes,yes,no,yes,yes
+281,'https://d2cc5bro5bu049.cloudfront.net/162/3066896/tile.jpeg',43.070702,-89.385300,1675,, '4 BR',309 W Doty St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,no
+422,'https://d2cc5bro5bu049.cloudfront.net/162/7206/tile.jpeg',43.068298,-89.391098,575,2095, '1 - 5 BR',548 W Main St,6082518777,no,no,no,yes,yes,no,no,yes,no,no,yes
+317,'https://d2cc5bro5bu049.cloudfront.net/162/3063298/tile.jpeg',43.073299,-89.419502,745,, '1 BR',401 Chamberlain Ave,6082518777,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+408,'https://d2cc5bro5bu049.cloudfront.net/162/12655360/tile.jpg',43.074902,-89.394096,595,1065, 'Studio - 2 BR',522 State St,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+286,'https://d2cc5bro5bu049.cloudfront.net/162/1956536/tile.jpg',43.073799,-89.392304,795,, 'Studio',314 N Broom St,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+769,'https://d2cc5bro5bu049.cloudfront.net/162/7469/tile.jpeg',43.068901,-89.389603,1695,, '4 BR',507 W Main St,6082518777,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+751,'https://d2cc5bro5bu049.cloudfront.net/162/3092412/tile.jpeg',43.074699,-89.393799,1275,, '2 BR',503 State St,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+741,'https://d2cc5bro5bu049.cloudfront.net/162/7441/tile.jpeg',43.068901,-89.391602,1495,, '3 BR',541 W Washington Ave,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+755,'https://d2cc5bro5bu049.cloudfront.net/162/11639117/tile.jpg',43.067699,-89.410301,945,, '1 BR',1423 Regent St,6082518777,no,no,no,no,yes,no,no,yes,no,yes,yes
+764,'https://d2cc5bro5bu049.cloudfront.net/162/7464/tile.jpeg',43.079498,-89.381500,1050,, '2 BR',129 N Franklin St,6082518777,no,no,no,yes,yes,no,no,yes,no,no,no
+742,'https://d2cc5bro5bu049.cloudfront.net/162/7442/tile.jpeg',43.069199,-89.391197,1495,, '3 BR',527 W Washington Ave,6082518777,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+748,'https://d2cc5bro5bu049.cloudfront.net/162/16833993/tile.jpeg',43.072701,-89.421700,1210,1295, '2 BR',2104 University Ave,6082518777,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+590,'https://d2cc5bro5bu049.cloudfront.net/162/3077080/tile.jpeg',43.078098,-89.387100,1225,, '3 BR',21 E Gorham St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,yes
+772,'https://d2cc5bro5bu049.cloudfront.net/162/3091922/tile.jpeg',43.070801,-89.414902,1240,, '2 BR',133 Lathrop St,6082518777,no,no,no,no,yes,no,no,yes,yes,yes,yes
+776,'https://d2cc5bro5bu049.cloudfront.net/162/7476/tile.jpeg',43.079300,-89.383400,1325,, '4 BR',321 E Johnson St,6082518777,yes,no,no,yes,yes,no,no,yes,no,no,no
+863,'https://d2cc5bro5bu049.cloudfront.net/162/3125699/tile.jpg',43.081200,-89.375298,805,2575, 'Studio - 3 BR',The Constellation,6088882647,yes,no,no,yes,yes,yes,yes,yes,no,no,no
+780,'https://d2cc5bro5bu049.cloudfront.net/162/3091738/tile.jpeg',43.065201,-89.412598,1395,, '2 BR',1621 Jefferson St,6082518777,no,no,no,no,no,no,no,yes,no,yes,yes
+792,'https://d2cc5bro5bu049.cloudfront.net/250/12259313/tile.jpg',43.071301,-89.395897,780,910, '1 - 2 BR',The Frances,6082572127,yes,yes,no,yes,yes,no,yes,yes,no,yes,yes
+811,'https://d2cc5bro5bu049.cloudfront.net/250/6564394/tile.jpg',43.068501,-89.385803,680,, 'Studio',409 W Wilson St,6082572127,yes,no,no,yes,yes,no,no,yes,no,no,no
+787,'https://d2cc5bro5bu049.cloudfront.net/162/7487/tile.jpeg',43.074001,-89.392601,1250,, '2 BR',407 W Gorham St,6082518777,yes,no,no,no,yes,no,yes,yes,no,no,yes
+1840,'https://d2cc5bro5bu049.cloudfront.net/292/17341425/tile.jpg',43.075115,-89.389496,960,3950, 'Studio - 5 BR',Lumen House,6082518777,yes,no,no,no,yes,no,yes,yes,no,no,yes
+818,'https://d2cc5bro5bu049.cloudfront.net/250/6569451/tile.jpg',43.077702,-89.385201,1440,, '3 BR',109 E Johnson St,6082572127,yes,no,yes,yes,yes,no,no,yes,no,no,no
+2076,'https://d2cc5bro5bu049.cloudfront.net/162/18473819/tile.jpg',43.072346,-89.420494,1895,, '3 BR',2020 Kendall Ave,6082518777,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+389486,'https://d2cc5bro5bu049.cloudfront.net/162/3077193/tile.jpeg',43.089413,-89.373299,1025,, '1 BR',457 Jean St,6082518777,no,no,no,no,no,no,no,yes,no,no,no
+387612,'https://d2cc5bro5bu049.cloudfront.net/162/3063300/tile.jpeg',43.073416,-89.419704,685,715, 'Studio - 1 BR',404 Chamberlain Ave,6082518777,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+387715,'https://d2cc5bro5bu049.cloudfront.net/162/3063495/tile.jpeg',43.068096,-89.406564,1095,, '2 BR',13 Coyne Ct,6082518777,yes,no,no,no,yes,no,no,no,no,yes,yes
+52381,'https://d2cc5bro5bu049.cloudfront.net/162/536740/tile.jpg',43.072959,-89.420156,1475,, '2 BR',2012 University Ave,6082518777,no,no,no,yes,yes,no,no,yes,yes,yes,yes
+780007,'https://d2cc5bro5bu049.cloudfront.net/20531/16877399/tile.jpg',43.057058,-89.427792,1525,1650, '1 BR',Wingra Shores,6082334440,no,no,no,no,no,no,no,no,no,no,yes
+505414,'https://d2cc5bro5bu049.cloudfront.net/162/7930846/tile.jpg',43.064762,-89.417939,1350,1495, '1 BR',706-714 Harrison St,6082518777,yes,no,no,no,no,yes,yes,yes,no,yes,yes
+992744,'https://d2cc5bro5bu049.cloudfront.net/162/9064835/tile.jpg',43.081851,-89.374166,1185,2910, 'Studio - 3 BR',Galaxie High Rise Apartments,6082607905,yes,no,no,no,yes,yes,yes,yes,no,no,no
+1287131,'https://d2cc5bro5bu049.cloudfront.net/127/10945228/tile.jpg',43.069356,-89.402571,1685,, '2 BR',Campus Village,6082553933,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+1288861,'https://d2cc5bro5bu049.cloudfront.net/127/10984492/tile.jpg',43.068621,-89.408182,1655,2165, '2 - 3 BR',Randall Station,6082553933,no,no,no,no,yes,no,no,no,no,yes,yes
+3263982,'https://d2cc5bro5bu049.cloudfront.net/86653/28147313/tile.jpg',43.077310,-89.393516,1300,3250, '2 - 5 BR',The Lakeview Apartments,9207237217,no,no,no,no,yes,no,no,yes,no,no,yes
+3010887,'https://d2cc5bro5bu049.cloudfront.net/139/25741113/tile.jpg',43.070108,-89.393775,3995,, '7 BR',117 N Bedford Street,6082848483,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+1285635,'https://d2cc5bro5bu049.cloudfront.net/127/15483701/tile.jpg',43.074593,-89.394235,1560,1610, '2 BR',515 State St,6082553933,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+765303,'https://d2cc5bro5bu049.cloudfront.net/19564/26606889/tile.png',43.072840,-89.414150,2595,, '4 BR',312 North Breese Terrace Apartments,6082355931,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+749360,'https://d2cc5bro5bu049.cloudfront.net/18135/6344267/tile.jpg',43.074438,-89.394380,670,735, 'Studio - 1 BR',519 State St,6082730228,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+750092,'https://d2cc5bro5bu049.cloudfront.net/18387/6342186/tile.jpg',43.073120,-89.464964,700,1040, 'Studio - 2 BR',Chapel Hill Apartments,6082747060,no,no,no,no,yes,no,no,no,no,no,no
+750153,'https://d2cc5bro5bu049.cloudfront.net/18388/6342188/tile.jpg',43.083029,-89.474942,560,700, 'Studio - 1 BR',Spring Harbor Apartments,6082730228,yes,no,no,no,no,no,no,no,no,no,no
+83714,'https://d2cc5bro5bu049.cloudfront.net/173/843200/tile.jpg',43.076143,-89.378456,865,, '1 BR',121 S Hancock St,6084672001,no,no,no,yes,yes,no,no,yes,no,no,no
+1218,'https://d2cc5bro5bu049.cloudfront.net/292/17341377/tile.jpg',43.068199,-89.407799,0,, 'Studio',Orchard Court,6082858695,yes,no,no,no,yes,no,no,no,no,yes,yes
+2087,'https://d2cc5bro5bu049.cloudfront.net/162/21264/tile.jpg',43.064850,-89.404411,475,2195, '1 - 4 BR',210 S Mills St,,yes,no,no,no,yes,no,no,no,no,yes,yes
+3394655,'https://d2cc5bro5bu049.cloudfront.net/89050/30423148/tile.png',43.066843,-89.424230,650,, '1 BR',2205 Rowley Ave,,yes,no,no,no,no,no,no,yes,no,yes,yes
+1248594,'https://d2cc5bro5bu049.cloudfront.net/19538/22200216/tile.jpeg',43.069028,-89.388725,950,1100, '2 BR',117 S Bassett Street,6082797962,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+780865,'https://d2cc5bro5bu049.cloudfront.net/20531/24076071/tile.jpg',43.075492,-89.394364,625,990, '1 - 2 BR',251 Langdon Street,6082334440,no,no,no,yes,yes,no,yes,yes,no,no,yes
+1285368,'https://d2cc5bro5bu049.cloudfront.net/127/10921280/tile.jpg',43.077242,-89.393808,1015,1420, '1 - 2 BR',210 Lakelawn,6082553933,no,no,no,no,yes,no,no,yes,no,no,yes
+780863,'https://d2cc5bro5bu049.cloudfront.net/20531/24076067/tile.jpg',43.078042,-89.391190,990,, '2 BR',104 Langdon Street,6082334440,no,no,no,no,yes,no,no,yes,no,no,yes
+780866,'https://d2cc5bro5bu049.cloudfront.net/20531/24076072/tile.jpg',43.070490,-89.414157,1575,1600, '3 - 4 BR',124 N. Breese Terrace,6082334440,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+780864,'https://d2cc5bro5bu049.cloudfront.net/20531/24076069/tile.jpg',43.075920,-89.393148,760,, '1 BR',227 Langdon Street,6082334440,no,no,no,no,yes,no,yes,yes,no,no,yes
+781,'https://d2cc5bro5bu049.cloudfront.net/162/7481/tile.jpeg',43.089401,-89.373596,995,, '1 BR',455 Jean St,6082518777,no,no,no,no,no,no,no,yes,no,no,no
+762,'https://d2cc5bro5bu049.cloudfront.net/145/23403790/tile.jpg',43.073399,-89.416702,1315,2190, '1 - 2 BR',Keystone Apartments,6084104234,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+5,'https://d2cc5bro5bu049.cloudfront.net/145/1429426/tile.jpg',43.078701,-89.390198,890,1255, '1 - 2 BR',Morgan House,6084104193,yes,no,no,no,yes,no,no,yes,no,no,yes
+320,'https://d2cc5bro5bu049.cloudfront.net/145/7113/tile.jpeg',43.076698,-89.389504,690,1035, 'Studio - 1 BR',Lewis Lodge,6084104189,yes,no,no,no,yes,no,yes,yes,no,no,yes
+376,'https://d2cc5bro5bu049.cloudfront.net/145/16501410/tile.jpg',43.076500,-89.391701,790,1080, 'Studio - 1 BR',Henry Gilman,6087194212,yes,no,no,no,yes,no,yes,yes,no,no,yes
+88,'https://d2cc5bro5bu049.cloudfront.net/145/6902/tile.jpeg',43.076599,-89.390404,3400,, '4 BR',Gilman House,6084675629,no,no,no,no,yes,no,yes,yes,no,no,yes
+279,'https://d2cc5bro5bu049.cloudfront.net/145/1449941/tile.jpg',43.072498,-89.417603,1695,2540, '3 - 4 BR',Princeton Kendall Apartments,6084161411,yes,no,no,no,yes,no,no,yes,yes,yes,yes
+373,'https://d2cc5bro5bu049.cloudfront.net/145/1428614/tile.jpg',43.041000,-89.463402,1010,1080, '2 - 3 BR',Whitcomb Corner Apartments,6084675332,no,no,no,no,yes,no,no,no,no,no,no
+353,'https://d2cc5bro5bu049.cloudfront.net/145/7142/tile.jpeg',43.077400,-89.389504,5100,5510, '7 BR',Carroll House,6087290162,yes,no,no,no,yes,no,no,yes,no,no,yes
+442,'https://d2cc5bro5bu049.cloudfront.net/145/30325966/tile.jpg',43.078400,-89.388397,1335,2530, '2 - 4 BR',Seven Eleven,6084104201,no,no,no,yes,yes,no,no,yes,no,no,yes
+717320,'https://d2cc5bro5bu049.cloudfront.net/145/23671008/tile.jpg',42.986999,-89.553242,950,1520, 'Studio - 2 BR',West End Apartments,6084402686,yes,no,no,no,no,no,no,no,no,no,no
+4,'https://d2cc5bro5bu049.cloudfront.net/145/30326103/tile.jpg',43.061100,-89.495598,1140,1340, '2 BR',Yorktown Apartments,6087097303,no,no,no,no,no,no,no,no,no,no,no
+24,'https://d2cc5bro5bu049.cloudfront.net/145/30325895/tile.jpg',43.076302,-89.389198,1055,1325, '1 - 2 BR',Landsdowne Court,6084104186,yes,no,no,no,yes,no,yes,yes,no,no,yes
+194,'https://d2cc5bro5bu049.cloudfront.net/145/23403821/tile.jpg',43.072991,-89.418615,1045,1165, '1 - 2 BR',Koval House,6082985304,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+74,'https://d2cc5bro5bu049.cloudfront.net/145/19052851/tile.jpg',43.076901,-89.390602,540,, '2 BR',Highlander Apartments,6087193045,no,no,no,no,yes,no,yes,yes,no,no,yes
+3399230,'https://d2cc5bro5bu049.cloudfront.net/89122/30480439/tile.jpeg',43.080742,-89.362092,1700,, '2 BR',1139 Rutledge St,,no,no,no,no,no,no,no,no,no,no,no
+327,'https://d2cc5bro5bu049.cloudfront.net/145/23407259/tile.jpg',43.075501,-89.391296,805,1265, 'Studio - 2 BR',The Windsor,6084104205,yes,no,no,no,yes,no,yes,yes,no,no,yes
+60,'https://d2cc5bro5bu049.cloudfront.net/145/23380706/tile.jpg',43.076500,-89.389801,610,1655, 'Studio - 3 BR',Carriage House,6084104177,no,no,no,no,yes,no,yes,yes,no,no,yes
+247,'https://d2cc5bro5bu049.cloudfront.net/145/7050/tile.jpeg',43.072102,-89.424896,835,1330, '1 - 2 BR',Hedvin House,6084104255,yes,no,no,no,yes,no,no,no,no,yes,yes
+278,'https://d2cc5bro5bu049.cloudfront.net/145/30325707/tile.jpg',43.071701,-89.425697,1020,1630, '1 - 2 BR',Hamelin House,6084104245,yes,no,no,no,yes,no,no,no,no,yes,yes
+3235414,'',43.044366,-89.410087,0,700, '1 BR',1719 Carver St,,no,no,no,no,yes,no,no,no,no,no,no
+741899,'',43.071583,-89.427706,1600,, '2 BR',2410 Kendall Ave,6082554726,yes,no,no,no,no,no,no,no,no,yes,yes
+741202,'',43.073276,-89.435946,1240,, '2 BR',517 N Franklin Ave,6082554726,yes,no,no,no,no,no,no,yes,no,no,yes
+741665,'',43.071806,-89.424622,2600,, '4 BR',2214 Kendall Ave,6082554726,yes,no,no,no,yes,no,no,no,no,yes,yes
+742064,'',43.069264,-89.418337,1680,1730, '2 BR',1829 Van Hise Ave,6082554726,no,no,no,no,yes,no,yes,yes,no,yes,yes
+742090,'',43.073111,-89.435947,1240,, '2 BR',513 N Franklin Ave,6082554726,yes,no,no,no,no,no,no,yes,no,no,yes
+742092,'',43.072801,-89.433388,1330,, '2 BR',513 Farley Ave,6082554726,yes,no,no,no,no,no,no,no,no,no,yes
+742119,'',43.072808,-89.435945,1240,1560, '2 - 3 BR',509 N Franklin Ave,6082554726,no,no,no,no,no,no,no,yes,no,no,yes
+741861,'',43.063895,-89.409617,1450,, '2 BR',1411 Chandler St,6082554726,no,no,no,no,no,no,no,yes,no,yes,yes
+760538,'',43.071585,-89.428062,1600,, '2 BR',2418 Kendall Ave,6082554726,yes,no,no,no,no,no,no,no,no,yes,yes
+760855,'',43.067935,-89.456236,600,, '1 BR',4717 Lafayette Dr,6082385657,no,no,no,no,no,no,no,yes,no,no,no
+767349,'',43.072010,-89.390603,2400,, '5 BR',412 W Mifflin St,6088488905,no,no,yes,yes,yes,yes,yes,yes,no,no,yes
+3325494,'',43.061099,-89.404276,2200,, '4 BR',522 S Mills St,6087723640,no,no,no,no,no,no,no,no,no,yes,yes
+761192,'',43.071162,-89.392816,1650,, '3 BR',507 W Dayton St,6082258515,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+741201,'',43.072705,-89.436627,1250,1560, '2 - 3 BR',506 N Franklin Ave,6082554726,no,no,no,no,no,no,no,yes,no,no,yes
+741433,'',43.072115,-89.424669,1020,1200, '1 - 2 BR',2213 University Ave,6082554726,yes,no,no,no,yes,no,no,no,no,yes,yes
+741399,'',43.073444,-89.418133,585,1130, 'Studio - 2 BR',1906 University Ave,6082554726,yes,no,no,yes,yes,no,no,yes,yes,yes,yes
+742123,'',43.073194,-89.435237,1290,, '2 BR',2730 Lynn Terrace,6082554726,no,no,no,no,no,no,no,no,no,no,yes
+761843,'',43.065434,-89.412283,1280,, '2 BR',1615 Jefferson St,6088488905,no,no,no,no,no,no,no,yes,no,yes,yes
+761886,'',43.072125,-89.390662,1820,, '3 BR',410 W Mifflin St,6088488905,no,no,no,yes,yes,yes,yes,yes,no,no,yes
+767423,'',43.061481,-89.489962,950,, '2 BR',6302 Mineral Point Rd,6088388002,no,no,no,no,no,no,no,no,no,no,no
+3379093,'',43.085791,-89.356629,1100,, '1 BR',1509 Spaight St,6086581039,yes,no,no,no,yes,no,no,no,no,no,no
+3394017,'',43.072432,-89.403678,0,, '3 BR',Grand Central Apartments,,yes,yes,yes,yes,yes,no,no,yes,no,yes,yes
+743515,'https://d2cc5bro5bu049.cloudfront.net/12327/8889480/tile.jpg',43.084954,-89.378321,1325,, '3 BR',413 Washburn Pl,6082065654,no,no,no,no,yes,no,no,yes,no,no,no
+3377659,'https://d2cc5bro5bu049.cloudfront.net/86146/28796752/tile.jpg',43.073558,-89.444233,1160,, '2 BR',Harvey St. Apt.,,no,no,no,no,no,yes,yes,yes,no,no,no
+1239941,'https://d2cc5bro5bu049.cloudfront.net/19664/28607353/tile.png',43.069471,-89.390756,1295,1395, '3 BR',515 West Washington Ave #1,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+213,'https://d2cc5bro5bu049.cloudfront.net/102/17461510/tile.jpg',43.077099,-89.385498,1020,1045, '2 BR',204 N Pinckney St,6082564200,yes,no,yes,yes,yes,no,no,yes,no,no,no
+218,'https://d2cc5bro5bu049.cloudfront.net/102/185/tile.jpg',43.077202,-89.385300,1535,, '3 BR',206 N Pinckney St,6082564200,yes,no,yes,yes,yes,no,no,yes,no,no,no
+761706,'https://d2cc5bro5bu049.cloudfront.net/19792/17268948/tile.jpg',43.075970,-89.390557,695,, '1 BR',Campus Square,6082510113,yes,no,no,no,yes,no,yes,yes,no,no,yes
+1806027,'https://d2cc5bro5bu049.cloudfront.net/67355/15321865/tile.jpg',43.071288,-89.435336,1875,, '2 BR',2737 Kendall Ave,6088435763,no,no,no,no,no,no,no,no,no,no,yes
+3380997,'https://d2cc5bro5bu049.cloudfront.net/19664/29413195/tile.png',43.069524,-89.390926,1100,, '2 BR',515 W. Washignton Ave,6082560525,yes,no,yes,yes,yes,no,yes,yes,no,no,yes
+2141240,'https://d2cc5bro5bu049.cloudfront.net/9439/19706790/tile.jpg',43.063535,-89.407081,2195,, '4 BR',317 S Orchard Street,6082334351,no,no,no,no,no,no,no,no,no,yes,yes
+584525,'https://d2cc5bro5bu049.cloudfront.net/9439/14374659/tile.jpg',43.072701,-89.423400,694,892, 'Studio - 1 BR',Allen House Apartments,6088880189,yes,no,no,no,yes,no,no,no,no,yes,yes
+3383870,'https://d2cc5bro5bu049.cloudfront.net/13510/30223424/tile.jpg',43.086868,-89.373236,1120,, '2 BR',1046 East Johnson St,6082352558,yes,no,no,no,no,no,no,yes,no,no,no
+3383868,'https://d2cc5bro5bu049.cloudfront.net/88845/30223399/tile.jpg',43.067645,-89.390590,1695,, '3 BR',554 W Doty St Apt 1,,no,no,no,yes,yes,no,no,yes,no,no,yes
+2830252,'https://d2cc5bro5bu049.cloudfront.net/13510/23135157/tile.jpg',43.078951,-89.367350,2050,2200, '4 BR',926 Spaight St,6082352558,no,no,no,no,yes,no,no,yes,no,no,no
+3375621,'https://d2cc5bro5bu049.cloudfront.net/13510/30223410/tile.jpg',43.087270,-89.372607,1380,, '2 BR',1102 East Johnson St,6082352558,yes,no,no,no,no,no,no,yes,no,no,no
+553,'https://d2cc5bro5bu049.cloudfront.net/173/6603171/tile.jpg',43.069698,-89.407402,1235,, '2 BR',102 N Orchard St,6082512715,no,no,no,no,yes,no,no,no,yes,yes,yes
+554,'https://d2cc5bro5bu049.cloudfront.net/173/7286/tile.jpeg',43.070099,-89.407402,619,805, 'Studio - 1 BR',112 N Orchard St,6082512715,no,no,no,no,yes,no,no,no,yes,yes,yes
+547,'https://d2cc5bro5bu049.cloudfront.net/173/18761460/tile.jpg',43.069302,-89.404900,509,, 'Studio',1115 Spring St,6082512715,yes,yes,no,yes,yes,no,no,yes,no,yes,yes
+83684,'https://d2cc5bro5bu049.cloudfront.net/173/24697975/tile.jpg',43.075380,-89.377366,1149,, '1 BR',404 E Wilson St,6084672001,yes,no,no,yes,yes,no,no,yes,no,no,no
+1285631,'https://d2cc5bro5bu049.cloudfront.net/127/10926587/tile.jpg',43.073424,-89.392371,1500,1600, '2 BR',412 W Johnson,6088196500,yes,no,no,yes,yes,no,yes,yes,no,no,yes
+752660,'https://d2cc5bro5bu049.cloudfront.net/173/28117472/tile.jpg',43.069888,-89.406451,1679,1900, '1 - 3 BR',The Humbucker,6088882864,no,yes,no,yes,yes,no,no,no,no,yes,yes
+760487,'https://d2cc5bro5bu049.cloudfront.net/19655/6416576/tile.jpg',43.068458,-89.388154,1495,, '3 BR',209 S Bassett St,6085772401,yes,no,no,yes,yes,no,no,yes,no,no,yes
+764263,'https://d2cc5bro5bu049.cloudfront.net/19543/6621619/tile.jpg',43.078473,-89.390675,450,495, 'Studio',22 Langdon St,6082556550,yes,no,no,no,yes,no,no,yes,no,no,yes
+3386715,'https://d2cc5bro5bu049.cloudfront.net/88897/30285841/tile.jpg',43.075315,-89.395454,1200,, '1 BR',The Towers On State,6088867434,yes,no,no,yes,yes,no,yes,yes,no,yes,yes
+760737,'https://d2cc5bro5bu049.cloudfront.net/19543/6621674/tile.jpg',43.076782,-89.394731,485,525, '1 BR',635 Howard Place #203,6082556550,no,no,no,no,yes,no,no,yes,no,yes,yes
+763542,'https://d2cc5bro5bu049.cloudfront.net/19875/30321718/tile.jpg',43.070873,-89.445272,895,, '1 BR',411 Eugenia Ave,6088319420,no,no,no,no,no,no,yes,yes,no,no,no
+741746,'https://d2cc5bro5bu049.cloudfront.net/12983/17742171/tile.jpg',43.073413,-89.396606,550,650, 'Studio',The Hawthorne Buildings,6082559723,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes
+750259,'https://d2cc5bro5bu049.cloudfront.net/15264/6344478/tile.jpg',43.080493,-89.381287,1925,, '4 BR',225 N. Blair Street,6082571000,yes,no,no,yes,yes,no,no,yes,no,no,no
+843,'https://d2cc5bro5bu049.cloudfront.net/173/21015074/tile.jpg',43.079701,-89.384399,1675,, '3 BR',307 E Gorham St,6084672001,yes,no,no,yes,yes,no,no,no,no,no,no
+3388161,'https://d2cc5bro5bu049.cloudfront.net/88933/30308748/tile.jpeg',43.067771,-89.390409,1800,, '4 BR',546 W Doty #1,6082997680,no,no,no,yes,yes,no,no,yes,no,no,yes
+3388097,'https://d2cc5bro5bu049.cloudfront.net/88933/30307625/tile.jpg',43.061782,-89.407739,1600,, '3 BR',1319 Drake Street #1,6082997680,no,no,no,no,no,no,no,no,no,yes,yes
+3388277,'https://d2cc5bro5bu049.cloudfront.net/88933/30309527/tile.jpg',43.067771,-89.390409,1400,, '3 BR',546 W Doty #3,6082997680,no,no,no,yes,yes,no,no,yes,no,no,yes
+3387977,'https://d2cc5bro5bu049.cloudfront.net/88933/30305812/tile.jpg',43.079181,-89.381675,0,, '4 BR',124 N Franklin St #2,6082997680,no,no,no,yes,yes,no,no,yes,no,no,no
+741948,'https://d2cc5bro5bu049.cloudfront.net/15334/12120392/tile.jpg',43.073296,-89.390653,1095,1549, '1 - 2 BR',Capitol Centre Court,6082552525,yes,no,no,yes,yes,yes,yes,yes,no,no,yes
+1285652,'https://d2cc5bro5bu049.cloudfront.net/127/26599861/tile.jpg',43.069342,-89.403529,1785,1860, '2 BR',Campus Corner,6082553933,yes,no,no,yes,yes,no,no,yes,no,yes,yes
+3006923,'https://d2cc5bro5bu049.cloudfront.net/19564/30185099/tile.jpeg',43.057497,-89.465710,1995,, '3 BR',472 Rushmore Lane,6082355931,no,no,no,no,yes,no,no,yes,no,no,no
