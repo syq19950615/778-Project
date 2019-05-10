@@ -1,1 +1,2 @@
-# 778 Project
+# 778 Project - Seeking Badger’s Home
+# Yuqi Shi
