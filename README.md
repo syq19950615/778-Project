@@ -10,5 +10,7 @@
 			<br><br>
 			<p5> Apartment data comes from <a href="https://campusareahousing.wisc.edu/"> https://campusareahousing.wisc.edu/ </a> </p>
 			</p1>
+			<p5> Data of bus routes and bus stops comes from <a href="http://data-cityofmadison.opendata.arcgis.com/"> http://data-cityofmadison.opendata.arcgis.com/ </a> </p>
+			</p1>	
 </body>
 </html>
